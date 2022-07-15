@@ -1,0 +1,1103 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7qz6-zrqt",
+      "name" : "WISE NEA/COMET DISCOVERY STATISTICS",
+      "assetType" : "dataset",
+      "attribution" : "Near Earth Object Program",
+      "attributionLink" : "http://neo.jpl.nasa.gov/stats/wise/",
+      "averageRating" : 0,
+      "category" : "Space Science",
+      "createdAt" : 1427992829,
+      "description" : "These tables show discovery statistics for NEAs and comets discovered by NASA's WISE mission - now renamed to NEOWISE. The first small table shows the number of NEAs, PHAs (a sub-group of NEAs), and comets discovered to-date (within a day or two). The second table shows each object discovered, sorted by designation, with selected parameters describing the object's orbit.\r\n\r\nhttp://neo.jpl.nasa.gov/stats/wise/",
+      "displayType" : "table",
+      "downloadCount" : 2998,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1530128932,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 12393317,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1437412744,
+      "publicationGroup" : 2592697,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1437412714,
+      "rowsUpdatedBy" : "a6xx-j6mr",
+      "tableId" : 3653577,
+      "totalTimesRated" : 0,
+      "viewCount" : 4438,
+      "viewLastModified" : 1530128705,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1437412744,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 650285,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1437412744,
+        "workflowId" : 2019,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "isxt-qkkm",
+          "displayName" : "NASA Public Data"
+        }
+      } ],
+      "clientContext" : {
+        "clientContextVariables" : [ ],
+        "inheritedVariables" : { }
+      },
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 213858267,
+        "name" : "Designation",
+        "dataTypeName" : "text",
+        "fieldName" : "designation",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 27309082,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 202,
+          "largest" : "P/2014 L2 (NEOWISE)",
+          "null" : 0,
+          "top" : [ {
+            "item" : "C/2010 FB87 (WISE-Garradd)",
+            "count" : 20
+          }, {
+            "item" : "(2010 FJ81)",
+            "count" : 19
+          }, {
+            "item" : "(2010 FH81)",
+            "count" : 18
+          }, {
+            "item" : "(2010 FG81)",
+            "count" : 17
+          }, {
+            "item" : "(2010 FC81)",
+            "count" : 16
+          }, {
+            "item" : "(2010 FB81)",
+            "count" : 15
+          }, {
+            "item" : "(2010 FA81)",
+            "count" : 14
+          }, {
+            "item" : "(2010 FZ80)",
+            "count" : 13
+          }, {
+            "item" : "(2010 FY80)",
+            "count" : 12
+          }, {
+            "item" : "(2010 FX80)",
+            "count" : 11
+          }, {
+            "item" : "(2010 EX119)",
+            "count" : 10
+          }, {
+            "item" : "(2010 EN44)",
+            "count" : 9
+          }, {
+            "item" : "(2010 EX11)",
+            "count" : 8
+          }, {
+            "item" : "C/2010 E3 (WISE)",
+            "count" : 7
+          }, {
+            "item" : "(2010 DJ77)",
+            "count" : 6
+          }, {
+            "item" : "(2010 DH77)",
+            "count" : 5
+          }, {
+            "item" : "(2010 DG77)",
+            "count" : 4
+          }, {
+            "item" : "(2010 DM56)",
+            "count" : 3
+          }, {
+            "item" : "(2010 DJ56)",
+            "count" : 2
+          }, {
+            "item" : "(2010 DH56)",
+            "count" : 1
+          } ],
+          "smallest" : "(2010 AB78)"
+        },
+        "format" : { }
+      }, {
+        "id" : 213858268,
+        "name" : "Discovery Date YYYY-MM-DD",
+        "dataTypeName" : "calendar_date",
+        "fieldName" : "discovery_date",
+        "position" : 3,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 27309083,
+        "width" : 268,
+        "cachedContents" : {
+          "non_null" : 202,
+          "largest" : "2015-04-17T00:00:00",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2010-06-23T00:00:00",
+            "count" : 20
+          }, {
+            "item" : "2010-06-14T00:00:00",
+            "count" : 19
+          }, {
+            "item" : "2010-06-02T00:00:00",
+            "count" : 18
+          }, {
+            "item" : "2010-05-11T00:00:00",
+            "count" : 17
+          }, {
+            "item" : "2010-05-10T00:00:00",
+            "count" : 16
+          }, {
+            "item" : "2010-04-25T00:00:00",
+            "count" : 15
+          }, {
+            "item" : "2010-04-20T00:00:00",
+            "count" : 14
+          }, {
+            "item" : "2010-04-14T00:00:00",
+            "count" : 13
+          }, {
+            "item" : "2010-04-10T00:00:00",
+            "count" : 12
+          }, {
+            "item" : "2010-03-28T00:00:00",
+            "count" : 11
+          }, {
+            "item" : "2010-03-31T00:00:00",
+            "count" : 10
+          }, {
+            "item" : "2010-03-30T00:00:00",
+            "count" : 9
+          }, {
+            "item" : "2010-02-20T00:00:00",
+            "count" : 8
+          }, {
+            "item" : "2010-02-19T00:00:00",
+            "count" : 7
+          }, {
+            "item" : "2010-02-23T00:00:00",
+            "count" : 6
+          }, {
+            "item" : "2010-02-18T00:00:00",
+            "count" : 5
+          }, {
+            "item" : "2010-02-16T00:00:00",
+            "count" : 4
+          }, {
+            "item" : "2010-02-28T00:00:00",
+            "count" : 3
+          }, {
+            "item" : "2010-02-26T00:00:00",
+            "count" : 2
+          }, {
+            "item" : "2010-02-25T00:00:00",
+            "count" : 1
+          } ],
+          "smallest" : "2010-01-12T00:00:00"
+        },
+        "format" : {
+          "view" : "date",
+          "align" : "left"
+        }
+      }, {
+        "id" : 213858295,
+        "name" : "H (mag)",
+        "dataTypeName" : "number",
+        "fieldName" : "h_mag",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27309084,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 181,
+          "average" : "20.31049723756906",
+          "largest" : "24.3",
+          "null" : 21,
+          "top" : [ {
+            "item" : "19.7",
+            "count" : 20
+          }, {
+            "item" : "20.5",
+            "count" : 19
+          }, {
+            "item" : "19.5",
+            "count" : 18
+          }, {
+            "item" : "19.3",
+            "count" : 17
+          }, {
+            "item" : "21.1",
+            "count" : 16
+          }, {
+            "item" : "21.2",
+            "count" : 15
+          }, {
+            "item" : "20.1",
+            "count" : 14
+          }, {
+            "item" : "20",
+            "count" : 13
+          }, {
+            "item" : "21.6",
+            "count" : 12
+          }, {
+            "item" : "20.4",
+            "count" : 11
+          }, {
+            "item" : "21.3",
+            "count" : 10
+          }, {
+            "item" : "21.4",
+            "count" : 9
+          }, {
+            "item" : "22.5",
+            "count" : 8
+          }, {
+            "item" : "17.2",
+            "count" : 7
+          }, {
+            "item" : "18.7",
+            "count" : 6
+          }, {
+            "item" : "20.9",
+            "count" : 5
+          }, {
+            "item" : "20.7",
+            "count" : 4
+          }, {
+            "item" : "20.2",
+            "count" : 3
+          }, {
+            "item" : "19.6",
+            "count" : 2
+          }, {
+            "item" : "19.2",
+            "count" : 1
+          } ],
+          "smallest" : "15.6",
+          "sum" : "3676.2"
+        },
+        "format" : {
+          "align" : "right"
+        }
+      }, {
+        "id" : 213858270,
+        "name" : "MOID (AU)",
+        "dataTypeName" : "number",
+        "fieldName" : "moid_au",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27309085,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 202,
+          "average" : "0.3305405940594059",
+          "largest" : "6.373",
+          "null" : 0,
+          "top" : [ {
+            "item" : "2.538",
+            "count" : 20
+          }, {
+            "item" : "0.128",
+            "count" : 19
+          }, {
+            "item" : "0.034",
+            "count" : 18
+          }, {
+            "item" : "0.019",
+            "count" : 17
+          }, {
+            "item" : "0.027",
+            "count" : 16
+          }, {
+            "item" : "0.096",
+            "count" : 15
+          }, {
+            "item" : "0.035",
+            "count" : 14
+          }, {
+            "item" : "0.297",
+            "count" : 13
+          }, {
+            "item" : "0.14",
+            "count" : 12
+          }, {
+            "item" : "0.535",
+            "count" : 11
+          }, {
+            "item" : "0.159",
+            "count" : 10
+          }, {
+            "item" : "0.023",
+            "count" : 9
+          }, {
+            "item" : "0.029",
+            "count" : 8
+          }, {
+            "item" : "1.546",
+            "count" : 7
+          }, {
+            "item" : "0.05",
+            "count" : 6
+          }, {
+            "item" : "0.146",
+            "count" : 5
+          }, {
+            "item" : "0.009",
+            "count" : 4
+          }, {
+            "item" : "0.006",
+            "count" : 3
+          }, {
+            "item" : "0.028",
+            "count" : 2
+          }, {
+            "item" : "0.333",
+            "count" : 1
+          } ],
+          "smallest" : "0.0002",
+          "sum" : "66.7692"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 213858271,
+        "name" : "q (AU)",
+        "dataTypeName" : "number",
+        "fieldName" : "q_au_1",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27309086,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 202,
+          "average" : "1.063514851485149",
+          "largest" : "7.15",
+          "null" : 0,
+          "top" : [ {
+            "item" : "0.97",
+            "count" : 20
+          }, {
+            "item" : "1.13",
+            "count" : 19
+          }, {
+            "item" : "1.04",
+            "count" : 18
+          }, {
+            "item" : "1.1",
+            "count" : 17
+          }, {
+            "item" : "1.05",
+            "count" : 16
+          }, {
+            "item" : "0.51",
+            "count" : 15
+          }, {
+            "item" : "0.99",
+            "count" : 14
+          }, {
+            "item" : "0.33",
+            "count" : 13
+          }, {
+            "item" : "0.87",
+            "count" : 12
+          }, {
+            "item" : "1.01",
+            "count" : 11
+          }, {
+            "item" : "0.95",
+            "count" : 10
+          }, {
+            "item" : "0.96",
+            "count" : 9
+          }, {
+            "item" : "0.92",
+            "count" : 8
+          }, {
+            "item" : "0.94",
+            "count" : 7
+          }, {
+            "item" : "1.59",
+            "count" : 6
+          }, {
+            "item" : "0.65",
+            "count" : 5
+          }, {
+            "item" : "0.98",
+            "count" : 4
+          }, {
+            "item" : "7.15",
+            "count" : 3
+          }, {
+            "item" : "4.25",
+            "count" : 2
+          }, {
+            "item" : "3.66",
+            "count" : 1
+          } ],
+          "smallest" : "0.14",
+          "sum" : "214.83"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 213858299,
+        "name" : "Q (AU)",
+        "dataTypeName" : "number",
+        "fieldName" : "q_au_2",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27309087,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 200,
+          "average" : "235.3495",
+          "largest" : "23255.11",
+          "null" : 2,
+          "top" : [ {
+            "item" : "1.59",
+            "count" : 20
+          }, {
+            "item" : "2",
+            "count" : 19
+          }, {
+            "item" : "2.31",
+            "count" : 18
+          }, {
+            "item" : "4.35",
+            "count" : 17
+          }, {
+            "item" : "4.14",
+            "count" : 16
+          }, {
+            "item" : "1.38",
+            "count" : 15
+          }, {
+            "item" : "4.8",
+            "count" : 14
+          }, {
+            "item" : "3.15",
+            "count" : 13
+          }, {
+            "item" : "3.04",
+            "count" : 12
+          }, {
+            "item" : "1.33",
+            "count" : 11
+          }, {
+            "item" : "1.06",
+            "count" : 10
+          }, {
+            "item" : "1.16",
+            "count" : 9
+          }, {
+            "item" : "5.58",
+            "count" : 8
+          }, {
+            "item" : "3.22",
+            "count" : 7
+          }, {
+            "item" : "1.69",
+            "count" : 6
+          }, {
+            "item" : "1.56",
+            "count" : 5
+          }, {
+            "item" : "3.51",
+            "count" : 4
+          }, {
+            "item" : "133.48",
+            "count" : 3
+          }, {
+            "item" : "4.83",
+            "count" : 2
+          }, {
+            "item" : "4.74",
+            "count" : 1
+          } ],
+          "smallest" : "1.04",
+          "sum" : "47069.90"
+        },
+        "format" : {
+          "align" : "right"
+        }
+      }, {
+        "id" : 213858300,
+        "name" : "period (yr)",
+        "dataTypeName" : "number",
+        "fieldName" : "period_yr",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27309088,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 200,
+          "average" : "10723.7349",
+          "largest" : "1254179.62",
+          "null" : 2,
+          "top" : [ {
+            "item" : "3.42",
+            "count" : 20
+          }, {
+            "item" : "4.59",
+            "count" : 19
+          }, {
+            "item" : "2.14",
+            "count" : 18
+          }, {
+            "item" : "4.38",
+            "count" : 17
+          }, {
+            "item" : "4.14",
+            "count" : 16
+          }, {
+            "item" : "1.31",
+            "count" : 15
+          }, {
+            "item" : "4.56",
+            "count" : 14
+          }, {
+            "item" : "4.42",
+            "count" : 13
+          }, {
+            "item" : "3.19",
+            "count" : 12
+          }, {
+            "item" : "2.63",
+            "count" : 11
+          }, {
+            "item" : "1.22",
+            "count" : 10
+          }, {
+            "item" : "0.93",
+            "count" : 9
+          }, {
+            "item" : "5.9",
+            "count" : 8
+          }, {
+            "item" : "3.02",
+            "count" : 7
+          }, {
+            "item" : "1.49",
+            "count" : 6
+          }, {
+            "item" : "1.4",
+            "count" : 5
+          }, {
+            "item" : "3.35",
+            "count" : 4
+          }, {
+            "item" : "555.03",
+            "count" : 3
+          }, {
+            "item" : "4.54",
+            "count" : 2
+          }, {
+            "item" : "4.85",
+            "count" : 1
+          } ],
+          "smallest" : "0.72",
+          "sum" : "2144746.98"
+        },
+        "format" : {
+          "align" : "right"
+        }
+      }, {
+        "id" : 213858274,
+        "name" : "i (deg)",
+        "dataTypeName" : "number",
+        "fieldName" : "i_deg",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 27309089,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 202,
+          "average" : "29.38277227722772",
+          "largest" : "162.3",
+          "null" : 0,
+          "top" : [ {
+            "item" : "21.66",
+            "count" : 20
+          }, {
+            "item" : "42.54",
+            "count" : 19
+          }, {
+            "item" : "16.79",
+            "count" : 18
+          }, {
+            "item" : "7.97",
+            "count" : 17
+          }, {
+            "item" : "1.68",
+            "count" : 16
+          }, {
+            "item" : "9.48",
+            "count" : 15
+          }, {
+            "item" : "15.48",
+            "count" : 14
+          }, {
+            "item" : "27.34",
+            "count" : 13
+          }, {
+            "item" : "18.81",
+            "count" : 12
+          }, {
+            "item" : "36.96",
+            "count" : 11
+          }, {
+            "item" : "15.57",
+            "count" : 10
+          }, {
+            "item" : "10.18",
+            "count" : 9
+          }, {
+            "item" : "9.75",
+            "count" : 8
+          }, {
+            "item" : "96.48",
+            "count" : 7
+          }, {
+            "item" : "24.98",
+            "count" : 6
+          }, {
+            "item" : "34.38",
+            "count" : 5
+          }, {
+            "item" : "14.81",
+            "count" : 4
+          }, {
+            "item" : "25.61",
+            "count" : 3
+          }, {
+            "item" : "34.84",
+            "count" : 2
+          }, {
+            "item" : "33.67",
+            "count" : 1
+          } ],
+          "smallest" : "0.82",
+          "sum" : "5935.32"
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 213858275,
+        "name" : "PHA",
+        "dataTypeName" : "text",
+        "fieldName" : "pha",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 27309090,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 202,
+          "largest" : "Y",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Y",
+            "count" : 20
+          }, {
+            "item" : "N",
+            "count" : 19
+          }, {
+            "item" : "n/a",
+            "count" : 18
+          } ],
+          "smallest" : "N"
+        },
+        "format" : { }
+      }, {
+        "id" : 213858276,
+        "name" : "Orbit Class",
+        "dataTypeName" : "text",
+        "fieldName" : "orbit_class",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 27309091,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 202,
+          "largest" : "Parabolic Comet",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Apollo",
+            "count" : 20
+          }, {
+            "item" : "Amor",
+            "count" : 19
+          }, {
+            "item" : "Aten",
+            "count" : 18
+          }, {
+            "item" : "Comet",
+            "count" : 17
+          }, {
+            "item" : "Jupiter-family Comet",
+            "count" : 16
+          }, {
+            "item" : "Halley-type Comet*",
+            "count" : 15
+          }, {
+            "item" : "Parabolic Comet",
+            "count" : 14
+          }, {
+            "item" : "Jupiter-family Comet*",
+            "count" : 13
+          }, {
+            "item" : "Encke-type Comet",
+            "count" : 12
+          } ],
+          "smallest" : "Amor"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "custom_fields" : {
+          "Common Core" : {
+            "Contact Name" : "Alan Chamberlin",
+            "Program Code" : "026:009",
+            "Publisher" : "Alan Chamberlin",
+            "Bureau Code" : "026:00"
+          }
+        },
+        "rowIdentifier" : "0",
+        "rowLabel" : "NEA/Comets",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "isxt-qkkm",
+        "displayName" : "NASA Public Data",
+        "profileImageUrlLarge" : "/api/users/isxt-qkkm/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/isxt-qkkm/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/isxt-qkkm/profile_images/TINY",
+        "screenName" : "NASA Public Data",
+        "type" : "interactive"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "isxt-qkkm",
+        "displayName" : "NASA Public Data",
+        "profileImageUrlLarge" : "/api/users/isxt-qkkm/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/isxt-qkkm/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/isxt-qkkm/profile_images/TINY",
+        "screenName" : "NASA Public Data",
+        "type" : "interactive"
+      },
+      "tags" : [ "spaceapps", "outerspace", "airburstvisual", "intermediate", "model", "platform", "data visualization" ],
+      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-knwe-cgky-3gny", "00000000-0000-0000-13E6-2F630E85EFA2", 0, 1437412816, null, 1437412816, null, "{ }", "419880 (2011 AH37)", "2011-01-07T00:00:00", "19.7", "0.035", "0.84", "4.26", "4.06", "9.65", "Y", "Apollo" ]
+, [ "row-qpkz-igbm.5f3k", "00000000-0000-0000-A8EB-88278E63B3E9", 0, 1437412816, null, 1437412816, null, "{ }", "419624 (2010 SO16)", "2010-09-17T00:00:00", "20.5", "0.028", "0.93", "1.08", "1", "14.52", "Y", "Apollo" ]
+, [ "row-frhb_jfki_8js8", "00000000-0000-0000-6F10-A4468F7168E2", 0, 1437412816, null, 1437412816, null, "{ }", "414772 (2010 OC103)", "2010-07-28T00:00:00", "19", "0.333", "0.39", "2", "1.31", "23.11", "N", "Apollo" ]
+, [ "row-t9wv-tb32.bnxc", "00000000-0000-0000-5F06-118B8BE22225", 0, 1437412816, null, 1437412816, null, "{ }", "414746 (2010 EH20)", "2010-03-06T00:00:00", "18", "0.268", "1.25", "3.99", "4.24", "23.89", "N", "Amor" ]
+, [ "row-ynaj_wqdj.hnqn", "00000000-0000-0000-F043-F04FFF40617E", 0, 1437412816, null, 1437412816, null, "{ }", "407324 (2010 OB101)", "2010-07-18T00:00:00", "20.7", "0.111", "0.77", "2.46", "2.06", "9.12", "N", "Apollo" ]
+, [ "row-muj9_pnue_z3iz", "00000000-0000-0000-34FC-4E45C8242C4C", 0, 1437412816, null, 1437412816, null, "{ }", "398188 (2010 LE15)", "2010-06-03T00:00:00", "19.5", "0.024", "0.63", "1.1", "0.8", "13.25", "Y", "Aten" ]
+, [ "row-ryht_shq4-p7nb", "00000000-0000-0000-0A62-1D59972B7865", 0, 1437412816, null, 1437412816, null, "{ }", "395207 (2010 HQ80)", "2010-04-25T00:00:00", "19.6", "0.007", "0.8", "2.34", "1.96", "27.85", "Y", "Apollo" ]
+, [ "row-jeny.sf4x.k98a", "00000000-0000-0000-3E9C-6C468C0BC86D", 0, 1437412816, null, 1437412816, null, "{ }", "386847 (2010 LR33)", "2010-06-06T00:00:00", "18", "0.029", "0.91", "2.48", "2.2", "5.84", "Y", "Apollo" ]
+, [ "row-f777_tvca~x496", "00000000-0000-0000-1AB9-5F5FD1C05A6D", 0, 1437412816, null, 1437412816, null, "{ }", "381989 (2010 HR80)", "2010-04-28T00:00:00", "19.9", "0.104", "0.68", "2.02", "1.56", "26.71", "N", "Apollo" ]
+, [ "row-8ia5_kt3c-rqba", "00000000-0000-0000-C981-6BBB41FB4C5A", 0, 1437412816, null, 1437412816, null, "{ }", "369454 (2010 NZ1)", "2010-07-09T00:00:00", "19.4", "0.275", "0.49", "2.26", "1.61", "32.78", "N", "Apollo" ]
+, [ "row-6h5x-d5pw~4zmh", "00000000-0000-0000-F7D7-7195B09EC5CA", 0, 1437412816, null, 1437412816, null, "{ }", "365449 (2010 NJ1)", "2010-07-03T00:00:00", "20.3", "0.155", "0.44", "1.49", "0.95", "11.23", "N", "Aten" ]
+, [ "row-9qu2~qxxc~5rkj", "00000000-0000-0000-D268-BE960363DA28", 0, 1437412816, null, 1437412816, null, "{ }", "365424 (2010 KX7)", "2010-05-16T00:00:00", "21.9", "0.034", "0.82", "1.16", "0.98", "21.49", "Y", "Aten" ]
+, [ "row-j45w.dkcp.jvsn", "00000000-0000-0000-E01C-3DA864EAC97A", 0, 1437412816, null, 1437412816, null, "{ }", "356394 (2010 QD2)", "2010-08-21T00:00:00", "17.4", "0.061", "0.43", "3.59", "2.85", "10.64", "N", "Apollo" ]
+, [ "row-bb72~itnb-fxqc", "00000000-0000-0000-16A4-7270A8549F47", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 HF11)", "2015-04-17T00:00:00", "19.2", "0.225", "1.22", "2.93", "2.99", "34.89", "N", "Amor" ]
+, [ "row-cht9~rexn~pe9y", "00000000-0000-0000-B414-156C52440974", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 GK50)", "2015-04-05T00:00:00", "20.5", "0.237", "1.03", "5.12", "5.39", "19.07", "N", "Amor" ]
+, [ "row-37p7-qgtd~9mjw", "00000000-0000-0000-5208-0930DA8070E4", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 GJ46)", "2015-04-11T00:00:00", "19.3", "0.238", "0.67", "5.06", "4.85", "18.22", "N", "Apollo" ]
+, [ "row-pxux-rxkr-s7qc", "00000000-0000-0000-9E1D-2CC0996A8058", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 FT344)", "2015-03-23T00:00:00", "20.5", "0.203", "1.09", "4.01", "4.07", "12.55", "N", "Amor" ]
+, [ "row-mmd3_g6cv~5e9a", "00000000-0000-0000-4B7C-FF9A8AC6D49A", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 FD341)", "2015-03-27T00:00:00", "18", "0.124", "0.31", "1.6", "0.93", "20.55", "N", "Aten" ]
+, [ "row-954p.rvgm_yrzf", "00000000-0000-0000-3BA8-E729F5653F01", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 FU332)", "2015-03-31T00:00:00", "17.3", "0.269", "0.67", "4.59", "4.27", "36.11", "N", "Apollo" ]
+, [ "row-9mtb-3iei-k4uq", "00000000-0000-0000-FD2C-18356812146D", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 FE120)", "2015-03-23T00:00:00", "21.1", "0.013", "1.01", "3.49", "3.38", "22.8", "Y", "Apollo" ]
+, [ "row-9xn4.wuxs~fa6x", "00000000-0000-0000-C0D8-3F904C8FCA9E", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 FY117)", "2015-03-20T00:00:00", "21.2", "0.15", "1.14", "2.9", "2.87", "24.33", "N", "Amor" ]
+, [ "row-94gm.q7v8_3zjs", "00000000-0000-0000-3161-386736781BE1", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 DX198)", "2015-02-17T00:00:00", "22.1", "0.074", "1.02", "2.25", "2.1", "11.05", "N", "Amor" ]
+, [ "row-5pe6~aw3m-6bwk", "00000000-0000-0000-E271-2CB52943D82A", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 BY516)", "2015-01-30T00:00:00", "22.3", "0.139", "0.97", "3.77", "3.66", "12.71", "N", "Apollo" ]
+, [ "row-bvr6-zcb5.e3jz", "00000000-0000-0000-C5E8-033BC5A8FEFF", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 AK280)", "2015-01-15T00:00:00", "21.8", "0.049", "0.79", "4.53", "4.33", "11.37", "Y", "Apollo" ]
+, [ "row-2xyu.dnrw~inuc", "00000000-0000-0000-B9C5-2D6684FF58B4", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 AY245)", "2015-01-14T00:00:00", "21.2", "0.019", "1", "1.25", "1.2", "13.59", "Y", "Apollo" ]
+, [ "row-yhzx_k58w~xqhf", "00000000-0000-0000-9136-114467647397", 0, 1437412816, null, 1437412816, null, "{ }", "(2015 AC17)", "2015-01-03T00:00:00", "19.9", "0.238", "1.22", "3.29", "3.39", "29.25", "N", "Amor" ]
+, [ "row-n7pg~a38x.itgs", "00000000-0000-0000-6AAF-74049ABDA656", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 YR43)", "2014-12-26T00:00:00", "19.5", "0.303", "0.97", "4", "3.92", "26.46", "N", "Apollo" ]
+, [ "row-czvd-mmne_igi3", "00000000-0000-0000-E554-2900737D2BDF", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 YS14)", "2014-12-24T00:00:00", "21.1", "0.127", "0.84", "4.09", "3.87", "18.29", "N", "Apollo" ]
+, [ "row-jtwb~3wfd-29ry", "00000000-0000-0000-FCAA-211EEF985AFF", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 XX31)", "2014-12-11T00:00:00", "17.5", "0.475", "0.36", "5.28", "4.73", "35.78", "N", "Apollo" ]
+, [ "row-uptn-5z2i_be2n", "00000000-0000-0000-7E52-A425FCECA955", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 XX7)", "2014-12-10T00:00:00", "19.7", "0.183", "1.17", "4.64", "4.94", "36.71", "N", "Amor" ]
+, [ "row-vwfj-fjvb-b5jg", "00000000-0000-0000-7465-744D91AA65DE", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 XQ7)", "2014-12-06T00:00:00", "20.6", "0.312", "0.66", "4.65", "4.32", "31.05", "N", "Apollo" ]
+, [ "row-rw9h_mqcq~fa75", "00000000-0000-0000-C3D3-F1DCC6BDEB86", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 VP35)", "2014-11-14T00:00:00", "23.3", "0.026", "0.95", "1.98", "1.78", "9.17", "N", "Apollo" ]
+, [ "row-8pc5-5kum-pbmk", "00000000-0000-0000-C295-50965298AFA2", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 UH210)", "2014-10-20T00:00:00", "21.1", "0.099", "0.89", "4.25", "4.11", "22.06", "N", "Apollo" ]
+, [ "row-s36s-7zds~tnwj", "00000000-0000-0000-CFFA-830F7926C074", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 UF206)", "2014-10-31T00:00:00", "18.8", "0.136", "1.11", "3.74", "3.78", "48.05", "N", "Amor" ]
+, [ "row-juxi-bawh~t79y", "00000000-0000-0000-E42F-8C6E400938FC", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 UG176)", "2014-10-25T00:00:00", "21.5", "0.16", "0.78", "4.62", "4.44", "16.3", "N", "Apollo" ]
+, [ "row-cpke-q237~u3dp", "00000000-0000-0000-F47B-8990D7DB4416", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 TJ64)", "2014-10-07T00:00:00", "21.2", "0.154", "1.05", "4.19", "4.24", "14.91", "N", "Amor" ]
+, [ "row-rq23_zqia-jkk5", "00000000-0000-0000-633C-A770122B48B1", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 TF64)", "2014-10-05T00:00:00", "20.1", "0.131", "0.94", "2.29", "2.05", "52.66", "N", "Apollo" ]
+, [ "row-6uzc_ub7g.j9ay", "00000000-0000-0000-9562-99B40105A3E8", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 TW57)", "2014-10-10T00:00:00", "20.1", "0.062", "0.57", "3.78", "3.21", "6.75", "N", "Apollo" ]
+, [ "row-kid5~di2g~xu8j", "00000000-0000-0000-5209-6577BAB98D9D", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 SR339)", "2014-09-30T00:00:00", "18.6", "0.036", "0.9", "1.69", "1.48", "29.79", "Y", "Apollo" ]
+, [ "row-i6jc~ap36.xk9h", "00000000-0000-0000-4F13-CD02B33CA08F", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 RH12)", "2014-09-03T00:00:00", "23.5", "0.045", "1.01", "3.35", "3.22", "7.23", "N", "Apollo" ]
+, [ "row-vnuv_ypcb-hxz5", "00000000-0000-0000-D3A2-AEF40C441754", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 QK433)", "2014-08-28T00:00:00", "18.2", "0.18", "1.19", "4.78", "5.16", "39.22", "N", "Amor" ]
+, [ "row-9ya5.4n65.i7iu", "00000000-0000-0000-B06A-59BCFE86890B", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 PP69)", "2014-08-05T00:00:00", "20", "1.617", "1.25", "41.78", "99.82", "93.63", "N", "Amor" ]
+, [ "row-bpvb_u9w6-y6x4", "00000000-0000-0000-4FA9-5FD3AF7A96B2", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 PF68)", "2014-08-15T00:00:00", "18.2", "0.17", "1.17", "4.53", "4.81", "22.75", "N", "Amor" ]
+, [ "row-e54k_bjyk_drer", "00000000-0000-0000-8994-06E476225A15", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 PC68)", "2014-08-08T00:00:00", "20.4", "0.104", "1.09", "1.95", "1.87", "40.68", "N", "Amor" ]
+, [ "row-ps74_m2ud.esm8", "00000000-0000-0000-E075-5C0A46399FFA", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 OZ1)", "2014-07-20T00:00:00", "21", "0.231", "1.08", "2.35", "2.24", "18", "N", "Amor" ]
+, [ "row-hibe.azip-98v5", "00000000-0000-0000-8E90-0D4FAFDF344C", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 OY1)", "2014-07-21T00:00:00", "19.1", "0.042", "0.97", "4.19", "4.14", "23.01", "Y", "Apollo" ]
+, [ "row-tne5-b97s_kmvi", "00000000-0000-0000-3E66-51D6C938CBD7", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 NM64)", "2014-07-11T00:00:00", "22.6", "0.051", "1.06", "4.62", "4.79", "28.78", "N", "Amor" ]
+, [ "row-c45v_m7g8_r64q", "00000000-0000-0000-935C-8AFA61EF0520", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 NE64)", "2014-07-07T00:00:00", "18.8", "0.39", "1.2", "3.01", "3.06", "41.63", "N", "Amor" ]
+, [ "row-9gia~ck8v_iudk", "00000000-0000-0000-6420-6B0A7CC4ED8D", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 NC64)", "2014-07-13T00:00:00", "20.2", "0.196", "0.8", "3.57", "3.23", "22.68", "N", "Apollo" ]
+, [ "row-ss88-cdqs~2ygg", "00000000-0000-0000-D37E-5E0271DAA3FE", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 NF3)", "2014-07-01T00:00:00", "20.8", "0.215", "0.66", "1.94", "1.48", "13.53", "N", "Apollo" ]
+, [ "row-6w52-5aug_mc5k", "00000000-0000-0000-43E7-B9FFE94564C7", 0, 1437412816, null, 1437412816, null, "{ }", "C/2014 N3 (NEOWISE)", "2014-07-04T00:00:00", null, "2.888", "3.88", "16441.51", "745640.58", "61.63", "n/a", "Comet" ]
+, [ "row-696a~su95~xzp4", "00000000-0000-0000-6552-E105BA6D4B27", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 MQ18)", "2014-06-22T00:00:00", "15.6", "0.192", "1.16", "4.63", "4.93", "35.09", "N", "Amor" ]
+, [ "row-277s.stwg-5r7d", "00000000-0000-0000-D298-D0FD55F52584", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 LQ25)", "2014-06-08T00:00:00", "20", "0.099", "0.65", "3.39", "2.88", "33.57", "N", "Apollo" ]
+, [ "row-8nan-fyx2.irtj", "00000000-0000-0000-7747-096B241CB014", 0, 1437412816, null, 1437412816, null, "{ }", "P/2014 L2 (NEOWISE)", "2014-06-07T00:00:00", null, "1.224", "2.23", "10.42", "15.91", "5.18", "n/a", "Jupiter-family Comet" ]
+, [ "row-uiqg~gfis.q752", "00000000-0000-0000-9AB9-F0BF55788532", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 JN57)", "2014-05-11T00:00:00", "20.6", "0.051", "1.03", "1.45", "1.39", "28.59", "N", "Amor" ]
+, [ "row-2qqu-cy9a.xu4h", "00000000-0000-0000-792C-CB51E4B3A6A8", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 JH57)", "2014-05-10T00:00:00", "16.2", "0.418", "0.43", "6.27", "6.13", "26.54", "N", "Apollo" ]
+, [ "row-rafh~s6pq.n5hi", "00000000-0000-0000-A0C4-4E613857D6A7", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 JL25)", "2014-05-04T00:00:00", "23", "0.012", "1", "4.8", "4.94", "15.75", "N", "Apollo" ]
+, [ "row-wzpz~bmm3-jjet", "00000000-0000-0000-8F4B-C893ADEAC8C3", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 HJ129)", "2014-04-24T00:00:00", "21.1", "0.212", "1.13", "4.04", "4.16", "8.44", "N", "Amor" ]
+, [ "row-bcdj~r2ma.9rtq", "00000000-0000-0000-23BF-44AC7D78BAB6", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 HQ124)", "2014-04-23T00:00:00", "18.9", "0.007", "0.63", "1.07", "0.78", "26.37", "Y", "Aten" ]
+, [ "row-aq3b~6mi8~2wds", "00000000-0000-0000-972D-DD2FB420A511", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 EQ49)", "2014-03-15T00:00:00", "21.8", "0.026", "0.91", "1.39", "1.23", "15.18", "Y", "Apollo" ]
+, [ "row-xyja~xtay_bkqx", "00000000-0000-0000-AC08-911B2690D00E", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 EN45)", "2014-03-06T00:00:00", "21.2", "0.156", "1.06", "3.83", "3.82", "14.03", "N", "Amor" ]
+, [ "row-cdr7~wtx7-3p88", "00000000-0000-0000-6FCE-2B6D732F2907", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 ED)", "2014-03-01T00:00:00", "19.3", "0.365", "0.56", "2.53", "1.92", "21.77", "N", "Apollo" ]
+, [ "row-8kzc~zcki.28ku", "00000000-0000-0000-245D-E0AD261B0479", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 CF14)", "2014-02-07T00:00:00", "18.1", "0.149", "0.82", "3.17", "2.83", "29.41", "N", "Apollo" ]
+, [ "row-fxz8_d95j~gkjm", "00000000-0000-0000-98C5-6CA69DFF6CC0", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 CY4)", "2014-02-04T00:00:00", "21.1", "0.042", "0.48", "4.82", "4.32", "15.02", "Y", "Apollo" ]
+, [ "row-ggc8.c2aw~ysus", "00000000-0000-0000-A3DD-8B31FB57DB6F", 0, 1437412816, null, 1437412816, null, "{ }", "C/2014 C3 (NEOWISE)", "2014-02-14T00:00:00", null, "0.866", "1.86", "214.97", "1128.89", "151.78", "n/a", "Comet" ]
+, [ "row-b8gz.5kyi~c7t9", "00000000-0000-0000-24FF-63444DC1C95F", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 BE63)", "2014-01-23T00:00:00", "23.2", "0.133", "0.75", "3.48", "3.08", "8.59", "N", "Apollo" ]
+, [ "row-vug5-avkn.uh7r", "00000000-0000-0000-D726-9B3872389089", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 BG60)", "2014-01-25T00:00:00", "20.1", "0.227", "1.17", "4.89", "5.27", "8.61", "N", "Amor" ]
+, [ "row-ym3q.axs2.65hf", "00000000-0000-0000-D28B-1618D30935B2", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 AA53)", "2014-01-13T00:00:00", "19.8", "0.14", "0.78", "3.97", "3.66", "12.45", "N", "Apollo" ]
+, [ "row-nt3k~wbhv_m7fs", "00000000-0000-0000-31FA-903370DF4DD4", 0, 1437412816, null, 1437412816, null, "{ }", "(2014 AQ46)", "2014-01-02T00:00:00", "20.1", "0.205", "1.13", "3.7", "3.75", "24.6", "N", "Amor" ]
+, [ "row-h9ka-wici_jg6k", "00000000-0000-0000-3E38-D3D65C8F4DB5", 0, 1437412816, null, 1437412816, null, "{ }", "(2013 YP139)", "2013-12-29T00:00:00", "21.6", "0.004", "0.76", "4.05", "3.73", "0.82", "Y", "Apollo" ]
+, [ "row-a349-geer.p4gn", "00000000-0000-0000-4ABF-A18B6AF40890", 0, 1437412816, null, 1437412816, null, "{ }", "(2011 BN59)", "2011-01-29T00:00:00", "20.4", "0.326", "1.16", "4.97", "5.36", "20.32", "N", "Amor" ]
+, [ "row-fy6r_pkgy~egz6", "00000000-0000-0000-3A22-A7EFCC0EF350", 0, 1437412816, null, 1437412816, null, "{ }", "(2011 BY24)", "2011-01-24T00:00:00", "22.6", "0.017", "0.96", "2.83", "2.6", "13.95", "N", "Apollo" ]
+, [ "row-zk6q_n6yu~j2mr", "00000000-0000-0000-19B5-02DD2C43DE3F", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 YD3)", "2010-12-26T00:00:00", "20", "0.195", "1.11", "4.05", "4.14", "24.61", "N", "Amor" ]
+, [ "row-zc82-nptm~9a6w", "00000000-0000-0000-4DF1-0879B2726A2B", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 YC1)", "2010-12-21T00:00:00", "21.3", "0.163", "0.83", "2", "1.68", "17.66", "N", "Apollo" ]
+, [ "row-5a8x_9b6k.iair", "00000000-0000-0000-E344-7F717B5C2E4E", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 XY82)", "2010-12-14T00:00:00", "19.1", "0.294", "1.12", "3.26", "3.24", "26.73", "N", "Amor" ]
+, [ "row-xty4~55y9_fktv", "00000000-0000-0000-F5CC-F2D430CEA696", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 XP69)", "2010-12-08T00:00:00", "21.4", "0.015", "1", "2.05", "1.88", "14.6", "Y", "Apollo" ]
+, [ "row-itua_jrzu~wp7g", "00000000-0000-0000-0AE2-D3825719D3C3", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 XZ67)", "2010-12-10T00:00:00", "19.7", "0.063", "1.04", "3.08", "2.96", "11.84", "N", "Amor" ]
+, [ "row-gxzz~ym6f.q5tx", "00000000-0000-0000-C6A4-DDB6A1011D20", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 WE9)", "2010-11-23T00:00:00", "20", "0.256", "1.17", "1.94", "1.94", "42.12", "N", "Amor" ]
+, [ "row-bph8_rsf7.6e5k", "00000000-0000-0000-30CA-66A34A8153B6", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 UB8)", "2010-10-27T00:00:00", "19.7", "0.194", "1.11", "4.85", "5.15", "30.97", "N", "Amor" ]
+, [ "row-v6n6-4f3p-wkir", "00000000-0000-0000-043E-4FB3390E3F39", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 UY6)", "2010-10-23T00:00:00", "20.1", "0.062", "1.04", "4.28", "4.34", "19.98", "N", "Amor" ]
+, [ "row-f6qp~ij4u.5ytj", "00000000-0000-0000-AAEE-0C1A4CEFDD6F", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 TK7)", "2010-10-01T00:00:00", "20.8", "0.087", "0.81", "1.19", "1", "20.89", "N", "Aten" ]
+, [ "row-zqr6-5c6r_7y6u", "00000000-0000-0000-22AD-23C57E78F489", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 QA5)", "2010-08-29T00:00:00", "22.5", "0.065", "1.07", "4.76", "4.97", "33.45", "N", "Amor" ]
+, [ "row-8dm2.f3aa.95st", "00000000-0000-0000-F98F-CCC665C63052", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 QE2)", "2010-08-25T00:00:00", "17.2", "0.056", "0.88", "5.86", "6.19", "64.75", "N", "Apollo" ]
+, [ "row-7s4y~jwav.5bwt", "00000000-0000-0000-7BFD-44DA10ADEFF1", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 PY75)", "2010-08-15T00:00:00", "18.7", "0.243", "0.6", "4.72", "4.34", "31.29", "N", "Apollo" ]
+, [ "row-i9p8.msd5.j9hk", "00000000-0000-0000-0293-6A5733EE824F", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 PU66)", "2010-08-03T00:00:00", "22.1", "0.148", "0.91", "2.07", "1.81", "18.09", "N", "Apollo" ]
+, [ "row-cbyk~2cnh_pgeb", "00000000-0000-0000-FFB8-5A617F277117", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 PW58)", "2010-08-05T00:00:00", "21.3", "0.021", "0.7", "1.08", "0.84", "14.24", "Y", "Aten" ]
+, [ "row-4qwi.nfjv_niwq", "00000000-0000-0000-3E4E-982D4B045B76", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 PP58)", "2010-08-05T00:00:00", "22.1", "0.014", "0.99", "3", "2.81", "4.55", "N", "Apollo" ]
+, [ "row-k4ne~ga39.7xc7", "00000000-0000-0000-52A9-B3C7A543236E", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 PM58)", "2010-08-01T00:00:00", "20.9", "0.096", "0.74", "2", "1.61", "13.6", "N", "Apollo" ]
+, [ "row-ag5m_pkca_tsab", "00000000-0000-0000-ABD9-09B714E282C3", 0, 1437412816, null, 1437412816, null, "{ }", "P/2010 P4 (WISE)", "2010-08-06T00:00:00", null, "0.854", "1.86", "5.55", "7.13", "24.1", "n/a", "Jupiter-family Comet" ]
+, [ "row-g34d~ecym.z62f", "00000000-0000-0000-EEBC-0477BFE6558B", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OK126)", "2010-07-30T00:00:00", "20.7", "0.149", "1.08", "2.83", "2.74", "52.56", "N", "Amor" ]
+, [ "row-hagy-6j73_u7hf", "00000000-0000-0000-3792-F20EC98D311B", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OH126)", "2010-07-31T00:00:00", "21.4", "0.068", "0.95", "2.85", "2.62", "14.38", "N", "Apollo" ]
+, [ "row-vagk_xxc4-e62q", "00000000-0000-0000-DCF2-DE2BE8374D82", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 ON101)", "2010-07-30T00:00:00", "20.2", "0.044", "0.96", "2.3", "2.08", "9.31", "Y", "Apollo" ]
+, [ "row-jnq2-bdkn-utkm", "00000000-0000-0000-CCEB-B85FAE34A307", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OL101)", "2010-07-27T00:00:00", "20.4", "0.298", "1.05", "4.17", "4.22", "26.11", "N", "Amor" ]
+, [ "row-j6qe-sutc~i5dm", "00000000-0000-0000-1BB8-35DE875907D8", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OF101)", "2010-07-23T00:00:00", "19.6", "0.062", "0.64", "1.26", "0.93", "23.37", "N", "Aten" ]
+, [ "row-zs8s-67jf.mtpy", "00000000-0000-0000-ADE8-01D42B8DE1F5", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OD101)", "2010-07-23T00:00:00", "20.7", "0.19", "1.04", "2.2", "2.06", "15.39", "N", "Amor" ]
+, [ "row-d5g6~pi6n~zv3z", "00000000-0000-0000-1CC5-C9AD805B634D", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OC101)", "2010-07-22T00:00:00", "20.7", "0.092", "0.94", "1.5", "1.35", "13.6", "N", "Apollo" ]
+, [ "row-fw5z-bk57_jxud", "00000000-0000-0000-CCAE-D01EFED34B31", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OL100)", "2010-07-28T00:00:00", "19.6", "0.129", "0.78", "3.74", "3.4", "22.16", "N", "Apollo" ]
+, [ "row-ivms-ryya_a3xp", "00000000-0000-0000-697C-A2D8151FC314", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 OE22)", "2010-07-17T00:00:00", "21.3", "0.178", "0.97", "4.31", "4.28", "14.32", "N", "Apollo" ]
+, [ "row-iwph_yzg6-t7is", "00000000-0000-0000-92AE-69E4292D7580", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 NY65)", "2010-07-14T00:00:00", "21.4", "0.017", "0.63", "1.37", "1", "11.74", "Y", "Aten" ]
+, [ "row-9nzk-wdnh-mcjy", "00000000-0000-0000-2844-ACD2128B0183", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 NG3)", "2010-07-08T00:00:00", "17.2", "0.127", "1.13", "4.08", "4.2", "26.96", "N", "Amor" ]
+, [ "row-sj4b~pggu.43k4", "00000000-0000-0000-7EAF-6C7E78A97E14", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 NB2)", "2010-07-10T00:00:00", "20.3", "0.102", "0.5", "3.67", "3.01", "28.66", "N", "Apollo" ]
+, [ "row-jpzm-8gaj.vvmt", "00000000-0000-0000-2D04-181EB0CD60A9", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 NU1)", "2010-07-06T00:00:00", "21.2", "0.336", "0.48", "4.33", "3.74", "34.58", "N", "Apollo" ]
+, [ "row-bija_qjtf~ygzb", "00000000-0000-0000-F143-04500116FF4E", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 NT1)", "2010-07-04T00:00:00", "19.4", "0.208", "1.14", "1.78", "1.76", "39.52", "N", "Amor" ]
+, [ "row-hqtm_dhrx~m7m8", "00000000-0000-0000-109D-1126B8A8DC43", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 NG1)", "2010-07-02T00:00:00", "20.4", "0.081", "0.57", "1.13", "0.78", "24.74", "N", "Aten" ]
+, [ "row-qe3n-2dby_zd9c", "00000000-0000-0000-A11E-AF28BFFA3287", 0, 1437412816, null, 1437412816, null, "{ }", "P/2010 N1 (WISE)", "2010-07-05T00:00:00", null, "0.491", "1.49", "4.92", "5.74", "12.88", "n/a", "Jupiter-family Comet" ]
+, [ "row-5t65~i4aq_wzzt", "00000000-0000-0000-6E65-0037473255B9", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 MA113)", "2010-06-25T00:00:00", "19.2", "0.081", "0.89", "3.68", "3.46", "39.85", "N", "Apollo" ]
+, [ "row-gh27_zmh5~zxbg", "00000000-0000-0000-3675-C536E1DCBB82", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 MZ112)", "2010-06-23T00:00:00", "19.8", "0.221", "0.49", "3.06", "2.36", "30.18", "N", "Apollo" ]
+, [ "row-qhpa_93ek-sdee", "00000000-0000-0000-5E1D-4233866F894F", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 MY112)", "2010-06-23T00:00:00", "21", "0.156", "0.8", "1.33", "1.1", "38.49", "N", "Apollo" ]
+, [ "row-gdet.fymj-zn94", "00000000-0000-0000-B002-844B75F2F669", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 MU112)", "2010-06-30T00:00:00", "20.7", "0.0002", "0.81", "2.71", "2.33", "48.02", "Y", "Apollo" ]
+, [ "row-2hs5.4f3y~etgg", "00000000-0000-0000-0F0D-9CB89F9866C9", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 MU111)", "2010-06-23T00:00:00", "18.7", "0.059", "0.92", "3.86", "3.7", "41.53", "N", "Apollo" ]
+, [ "row-xj6x-eaqy-y9uw", "00000000-0000-0000-E49E-B517B45AADC2", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 MR87)", "2010-06-22T00:00:00", "19.5", "0.15", "1.06", "2.41", "2.28", "34.98", "N", "Amor" ]
+, [ "row-ps8d-w5zp_kxzi", "00000000-0000-0000-C53A-12E4826C54BE", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LU134)", "2010-06-14T00:00:00", "19.5", "0.146", "0.86", "2.93", "2.61", "27.39", "N", "Apollo" ]
+, [ "row-xvjc~uvav~rpz2", "00000000-0000-0000-FBAA-5CAD9C50DE6C", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LV108)", "2010-06-14T00:00:00", "22.6", "0.006", "1.01", "4.55", "4.64", "5.43", "N", "Apollo" ]
+, [ "row-i4fn~8cj3~9bpi", "00000000-0000-0000-5DAA-C3BBD6649C56", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LU108)", "2010-06-15T00:00:00", "20", "0.126", "0.41", "4.08", "3.35", "9.51", "N", "Apollo" ]
+, [ "row-kdah_2rg5_6eiw", "00000000-0000-0000-DF79-9547B5826050", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LT108)", "2010-06-13T00:00:00", "19.7", "0.138", "0.85", "1.85", "1.57", "31.87", "N", "Apollo" ]
+, [ "row-hpra~stdb~bvt5", "00000000-0000-0000-A68F-9C9621C1C679", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LO97)", "2010-06-13T00:00:00", "18.7", "0.233", "1.22", "3.94", "4.14", "21.65", "N", "Amor" ]
+, [ "row-kdp7-i5bj.y5zw", "00000000-0000-0000-AA63-47288DFF2DA1", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LF86)", "2010-06-11T00:00:00", "17.2", "0.318", "1.3", "3.51", "3.73", "13.55", "N", "Amor" ]
+, [ "row-vydr_g7cz.3f79", "00000000-0000-0000-9CF6-33FBA7D862CD", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LR68)", "2010-06-08T00:00:00", "18.3", "0.216", "1.19", "4.88", "5.29", "4.58", "N", "Amor" ]
+, [ "row-ckt5_t27u~rfub", "00000000-0000-0000-745B-1D5B24298835", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LL68)", "2010-06-12T00:00:00", "22.9", "0.139", "0.98", "3.16", "2.99", "10.48", "N", "Apollo" ]
+, [ "row-f8sq-v5gx~saus", "00000000-0000-0000-4468-A761FD737A51", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LK68)", "2010-06-12T00:00:00", "22.5", "0.025", "0.61", "1.73", "1.27", "22.08", "N", "Apollo" ]
+, [ "row-r44t~k2a3_z7ns", "00000000-0000-0000-60C4-DB5DFB6EA19D", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LJ68)", "2010-06-11T00:00:00", "22.7", "0.031", "0.97", "2.54", "2.32", "17.01", "N", "Apollo" ]
+, [ "row-suga.7xrt_7j6w", "00000000-0000-0000-8A1A-9C1F5624E4BA", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LG64)", "2010-06-05T00:00:00", "20.2", "0.043", "1.04", "4.3", "4.36", "42.28", "Y", "Amor" ]
+, [ "row-2asf_pqrb-siep", "00000000-0000-0000-54A9-202EC672CEB9", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LF64)", "2010-06-03T00:00:00", "21.6", "0.192", "1.13", "1.59", "1.59", "18.54", "N", "Amor" ]
+, [ "row-fnuh_b429~rrrm", "00000000-0000-0000-C501-11A828D90CBC", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LJ61)", "2010-06-08T00:00:00", "20.9", "0.054", "0.57", "1.59", "1.12", "10.24", "N", "Apollo" ]
+, [ "row-ep9b.g3dd-ti26", "00000000-0000-0000-66AA-1166050EA0FB", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LQ33)", "2010-06-04T00:00:00", "19.3", "0.228", "1.23", "3.31", "3.42", "24.63", "N", "Amor" ]
+, [ "row-nxu3-iryv~g4aq", "00000000-0000-0000-C04A-CAEB9C443DED", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LM14)", "2010-06-02T00:00:00", "21.5", "0.312", "0.69", "1.53", "1.17", "25.92", "N", "Apollo" ]
+, [ "row-hwpu_ajap_qkeq", "00000000-0000-0000-1084-1E92C72E3613", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 LH14)", "2010-06-02T00:00:00", "22", "0.054", "0.93", "3.46", "3.26", "4.66", "N", "Apollo" ]
+, [ "row-6akk_bcjz.s85k", "00000000-0000-0000-39DD-1ACBBA5E2058", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 L5 (WISE)", "2010-06-14T00:00:00", null, "0.114", "0.79", "15.64", "23.56", "147.05", "n/a", "Halley-type Comet*" ]
+, [ "row-eemv-hthg.dskv", "00000000-0000-0000-104A-97726FF5DE39", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 L4 (WISE)", "2010-06-15T00:00:00", null, "2.53", "2.83", "157.36", "716.78", "102.82", "n/a", "Comet" ]
+, [ "row-gbtc~ecek.d3kd", "00000000-0000-0000-833C-28665EC40EE7", 0, 1437412816, null, 1437412816, null, "{ }", "245P/WISE", "2010-06-02T00:00:00", null, "1.172", "2.14", "5.88", "8.04", "21.09", "n/a", "Jupiter-family Comet" ]
+, [ "row-mazd.g9rs.eug7", "00000000-0000-0000-385E-475C01D7854C", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 KY127)", "2010-05-31T00:00:00", "17", "0.703", "0.3", "4.7", "3.95", "60.29", "N", "Apollo" ]
+, [ "row-zniz~tkgn~d8h8", "00000000-0000-0000-B0BE-A8259CF6AC4D", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 KK127)", "2010-05-21T00:00:00", "20.7", "0.282", "1.28", "3.18", "3.33", "6.94", "N", "Amor" ]
+, [ "row-tzxb~r2pa-gjeu", "00000000-0000-0000-6E6B-90DECCB024E5", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 KZ117)", "2010-05-18T00:00:00", "19.2", "0.166", "1.1", "3.43", "3.42", "33.17", "N", "Amor" ]
+, [ "row-dz37~yd83_6daz", "00000000-0000-0000-4EF0-E58FE7B3E52B", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 KB61)", "2010-05-26T00:00:00", "20.5", "0.051", "0.98", "1.57", "1.44", "44.6", "N", "Apollo" ]
+, [ "row-6ckp~fi37.n8xv", "00000000-0000-0000-966F-8AF656A6938F", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 KY39)", "2010-05-18T00:00:00", "20.1", "0.303", "1.05", "2.43", "2.3", "25.51", "N", "Amor" ]
+, [ "row-vzhj_j3x7.66cj", "00000000-0000-0000-A945-325833A6527C", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 KW7 (WISE)", "2010-05-16T00:00:00", null, "1.625", "2.57", "197.11", "997.65", "147.06", "n/a", "Comet" ]
+, [ "row-7wj5.3jqa_7crn", "00000000-0000-0000-1C2D-2771CCC6A5B3", 0, 1437412816, null, 1437412816, null, "{ }", "317P/WISE", "2010-05-27T00:00:00", null, "0.204", "1.2", "4.65", "5.01", "10.65", "n/a", "Jupiter-family Comet" ]
+, [ "row-k7ee-e8dj_mme3", "00000000-0000-0000-8C0F-03719B1781DB", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 KH)", "2010-05-16T00:00:00", "19.4", "0.367", "1.24", "4.28", "4.59", "14.57", "N", "Amor" ]
+, [ "row-sut9-jynt_j2z7", "00000000-0000-0000-056F-1F09B831CCA2", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JM151)", "2010-05-14T00:00:00", "19.6", "0.111", "0.88", "2.52", "2.21", "16.65", "N", "Apollo" ]
+, [ "row-a85s.vzdq.f278", "00000000-0000-0000-A487-4C6A78D298B9", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JH87)", "2010-05-11T00:00:00", "19.6", "0.221", "0.71", "2.37", "1.91", "43.78", "N", "Apollo" ]
+, [ "row-9u7x.9biv_4qqj", "00000000-0000-0000-92A5-E10D3A97D5F0", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JG87)", "2010-05-11T00:00:00", "19.1", "0.209", "0.14", "5.38", "4.59", "16.91", "N", "Apollo" ]
+, [ "row-dnxy.mkcz.st5u", "00000000-0000-0000-756E-AD88BD22F65D", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JF87)", "2010-05-11T00:00:00", "19.2", "0.053", "0.92", "3.95", "3.8", "24.93", "N", "Apollo" ]
+, [ "row-xbvh.jugb_9yya", "00000000-0000-0000-A39C-09C7A0F428A0", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JE87)", "2010-05-10T00:00:00", "20.8", "0.035", "0.51", "1.3", "0.86", "16.92", "Y", "Aten" ]
+, [ "row-kcs3~pu29_gp8i", "00000000-0000-0000-65A6-A4541CD684A9", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JD87)", "2010-05-07T00:00:00", "19.2", "0.283", "0.51", "2.34", "1.71", "24.6", "N", "Apollo" ]
+, [ "row-9vgf~6vzq~qrqv", "00000000-0000-0000-8232-15B308576652", 0, 1437412816, null, 1437412816, null, "{ }", "P/2010 JC81 (WISE)", "2010-05-10T00:00:00", null, "0.828", "1.81", "14.46", "23.19", "38.69", "n/a", "Halley-type Comet*" ]
+, [ "row-wyi9-szi9-wqqi", "00000000-0000-0000-90E3-9AF2A67F3416", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JA43)", "2010-05-04T00:00:00", "20.9", "0.186", "1.03", "2.38", "2.23", "36.46", "N", "Amor" ]
+, [ "row-vzvx_3fki-2ta6", "00000000-0000-0000-B160-FF1DD2978442", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 JN33)", "2010-05-03T00:00:00", "20.4", "0.257", "1.11", "2", "1.94", "53.15", "N", "Amor" ]
+, [ "row-d9u4~atxw~sa8g", "00000000-0000-0000-D1B3-4AB61F7FB264", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 J4 (WISE)", "2010-05-12T00:00:00", null, "0.307", "1.09", null, null, "162.3", "n/a", "Parabolic Comet" ]
+, [ "row-qe3h.78cy.mj3i", "00000000-0000-0000-E1CD-D4818797B3DE", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 HZ108)", "2010-04-25T00:00:00", "20.9", "0.108", "0.99", "1.51", "1.39", "22.88", "N", "Apollo" ]
+, [ "row-9xb9.c2bi-eryy", "00000000-0000-0000-DBC6-526734243C35", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 HX107)", "2010-04-20T00:00:00", "23.6", "0.014", "0.56", "1.04", "0.72", "3.36", "N", "Aten" ]
+, [ "row-m3nc-qaz5.yudh", "00000000-0000-0000-510E-25DFFB1AF5DF", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 HZ104)", "2010-04-23T00:00:00", "22.5", "0.029", "0.97", "3.52", "3.37", "20.24", "N", "Apollo" ]
+, [ "row-ckep_qa42.2f3n", "00000000-0000-0000-FB47-1CDE34AC2EF3", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 HW81)", "2010-04-25T00:00:00", "21.4", "0.117", "0.33", "2.1", "1.33", "12.77", "N", "Apollo" ]
+, [ "row-g3wh~zhk6.ihji", "00000000-0000-0000-785B-B4D5F3BBB085", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 HD33)", "2010-04-20T00:00:00", "18.3", "0.372", "1.27", "3.97", "4.24", "24.43", "N", "Amor" ]
+, [ "row-nkk7_ajxe~ur2c", "00000000-0000-0000-2EE6-644DD015CB70", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GV147)", "2010-04-14T00:00:00", "18.5", "0.316", "0.33", "1.59", "0.94", "44.05", "N", "Aten" ]
+, [ "row-e6ws_syaz~7z6u", "00000000-0000-0000-7AA1-C14ED63C8F92", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GR75)", "2010-04-13T00:00:00", "19.6", "0.299", "0.63", "2.82", "2.27", "17.78", "N", "Apollo" ]
+, [ "row-pcxn~bpw6_gazc", "00000000-0000-0000-5305-6AEB75A5276E", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GQ75)", "2010-04-12T00:00:00", "20.2", "0.598", "0.33", "4.53", "3.79", "43.23", "N", "Apollo" ]
+, [ "row-bgqk.3mv7.9tgy", "00000000-0000-0000-3909-312C7534E330", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GP67)", "2010-04-11T00:00:00", "22.3", "0.018", "0.99", "1.23", "1.18", "13.27", "N", "Apollo" ]
+, [ "row-3zvx~3nzb_t95k", "00000000-0000-0000-9133-055709A399E0", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GH65)", "2010-04-10T00:00:00", "18.8", "0.15", "1.05", "4.36", "4.45", "21.04", "N", "Amor" ]
+, [ "row-5gkb-8n7d~bhnb", "00000000-0000-0000-8B29-8D9B17B7120B", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GX62)", "2010-04-10T00:00:00", "20", "0.013", "0.87", "5.03", "5.07", "21.66", "Y", "Apollo" ]
+, [ "row-puc5-6yn5~rqab", "00000000-0000-0000-6427-E24D66F438D9", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GW62)", "2010-04-09T00:00:00", "19.4", "0.44", "0.54", "2", "1.43", "32.43", "N", "Apollo" ]
+, [ "row-awwg-ttbx_reh8", "00000000-0000-0000-C81B-7CCC86867E9F", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GF25)", "2010-04-02T00:00:00", "19.1", "0.399", "0.37", "2.47", "1.7", "38.49", "N", "Apollo" ]
+, [ "row-waa3_shwa-qjfk", "00000000-0000-0000-0595-DF9538BB4CDC", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GE25)", "2010-04-01T00:00:00", "20", "0.22", "1.1", "3.03", "2.97", "21.66", "N", "Amor" ]
+, [ "row-7mxt~6khd_gm5n", "00000000-0000-0000-E030-3886D68E859A", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 GK23)", "2010-04-05T00:00:00", "19.7", "0.097", "0.87", "4.43", "4.32", "34.77", "N", "Apollo" ]
+, [ "row-9xhe_xet3~vhg6", "00000000-0000-0000-9A85-80F6596C5144", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 G3 (WISE)", "2010-04-14T00:00:00", null, "4.492", "4.91", "5260.08", "135070.2", "108.27", "n/a", "Comet" ]
+, [ "row-xqvn.j9ys-x9kb", "00000000-0000-0000-2C11-A7B185FBACB1", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 FB87 (WISE-Garradd)", "2010-03-28T00:00:00", null, "2.538", "2.84", "595.66", "5176.82", "107.63", "n/a", "Comet" ]
+, [ "row-sci9-z3h3-kuar", "00000000-0000-0000-2D7A-80B48516A545", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FJ81)", "2010-03-31T00:00:00", "20.8", "0.128", "1.14", "6.06", "6.82", "42.54", "N", "Amor" ]
+, [ "row-eudk-rf77_fyd6", "00000000-0000-0000-8004-883AE2A63962", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FH81)", "2010-03-31T00:00:00", "21.6", "0.034", "0.97", "1.48", "1.36", "16.79", "Y", "Apollo" ]
+, [ "row-e3wy~g55s_mi7k", "00000000-0000-0000-0CEE-99C0279AADA2", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FG81)", "2010-03-26T00:00:00", "23.3", "0.019", "1.01", "2.31", "2.14", "7.97", "N", "Apollo" ]
+, [ "row-xfad.2gc6~hkfa", "00000000-0000-0000-DBFA-B11339D16075", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FC81)", "2010-03-30T00:00:00", "21.8", "0.027", "1.01", "4.35", "4.38", "1.68", "Y", "Apollo" ]
+, [ "row-9bi5-b8ed.99iv", "00000000-0000-0000-42EA-6FDDB63817DE", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FB81)", "2010-03-30T00:00:00", "21.4", "0.096", "1.02", "4.14", "4.14", "9.48", "N", "Amor" ]
+, [ "row-53qh.he9z.n97a", "00000000-0000-0000-4CD3-4BD571D49F2D", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FA81)", "2010-03-29T00:00:00", "22.3", "0.035", "1.01", "1.38", "1.31", "15.48", "N", "Apollo" ]
+, [ "row-eu45-tzfd~z34h", "00000000-0000-0000-0241-8CCE4F71964C", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FZ80)", "2010-03-28T00:00:00", "20.3", "0.297", "0.7", "4.8", "4.56", "27.34", "N", "Apollo" ]
+, [ "row-ueix_rh4e.ns66", "00000000-0000-0000-0177-D631D83DABFD", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FY80)", "2010-03-28T00:00:00", "19.7", "0.14", "1.05", "4.35", "4.42", "18.81", "N", "Amor" ]
+, [ "row-i7qc-kew9.d6tb", "00000000-0000-0000-1161-2B3046A828A8", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 FX80)", "2010-03-27T00:00:00", "20.6", "0.535", "1.18", "3.15", "3.19", "36.96", "N", "Amor" ]
+, [ "row-vr6u-a3rt.8h4p", "00000000-0000-0000-FC35-81EE412E2112", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 EX119)", "2010-03-13T00:00:00", "19.4", "0.159", "0.77", "3.04", "2.63", "15.57", "N", "Apollo" ]
+, [ "row-wfvn_enhc_qw9q", "00000000-0000-0000-DDAE-0EAB7FFE3A2B", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 EN44)", "2010-03-12T00:00:00", "24.3", "0.023", "0.96", "1.33", "1.22", "10.18", "N", "Apollo" ]
+, [ "row-yttj~se52_gti9", "00000000-0000-0000-79F9-CC287C55DC80", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 EX11)", "2010-03-03T00:00:00", "24.1", "0.029", "0.85", "1.06", "0.93", "9.75", "N", "Aten" ]
+, [ "row-f4ut_4xd2-k3yj", "00000000-0000-0000-2194-0CA9A5CED590", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 E3 (WISE)", "2010-03-05T00:00:00", null, "1.546", "2.27", null, null, "96.48", "n/a", "Parabolic Comet" ]
+, [ "row-r6u5-ukku~wkwj", "00000000-0000-0000-4C47-429CAC48EC8C", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DJ77)", "2010-02-20T00:00:00", "21.6", "0.05", "0.75", "1.16", "0.93", "24.98", "Y", "Aten" ]
+, [ "row-9u2n_m7gf-wymk", "00000000-0000-0000-3760-8E3274E8BDA8", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DH77)", "2010-02-19T00:00:00", "21.8", "0.146", "0.95", "5.58", "5.9", "34.38", "N", "Apollo" ]
+, [ "row-x8uu~r5ai.d69j", "00000000-0000-0000-55D7-644C207E9ED3", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DG77)", "2010-02-19T00:00:00", "21.4", "0.009", "0.96", "3.22", "3.02", "14.81", "Y", "Apollo" ]
+, [ "row-abia.2wah_veuw", "00000000-0000-0000-F0BF-39F6887207BE", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DM56)", "2010-02-19T00:00:00", "19.9", "0.006", "0.92", "1.69", "1.49", "25.61", "Y", "Apollo" ]
+, [ "row-m3xv~ejfk-j95b", "00000000-0000-0000-1AB6-9677B43422C3", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DJ56)", "2010-02-23T00:00:00", "19.3", "0.028", "0.94", "1.56", "1.4", "34.84", "Y", "Apollo" ]
+, [ "row-beeq_w5jr-6wky", "00000000-0000-0000-A63C-1BDFE56DBBBD", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DH56)", "2010-02-20T00:00:00", "20.3", "0.333", "0.97", "3.51", "3.35", "33.67", "N", "Apollo" ]
+, [ "row-wwfg~5k6n~qwf9", "00000000-0000-0000-0636-E11420192A7F", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 DG56 (WISE)", "2010-02-18T00:00:00", null, "0.65", "1.59", "133.48", "555.03", "160.42", "n/a", "Comet" ]
+, [ "row-f2b6_xciv-9h5h", "00000000-0000-0000-B91E-A4FB91EB4E46", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DK34)", "2010-02-20T00:00:00", "20.4", "0.333", "0.65", "4.83", "4.54", "27.34", "N", "Apollo" ]
+, [ "row-urye~jyaz_vvzc", "00000000-0000-0000-8C0E-AFD5A1F23410", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 DM21)", "2010-02-16T00:00:00", "20.2", "0.26", "0.98", "4.74", "4.85", "21.15", "N", "Apollo" ]
+, [ "row-f7is_cm6n-a6qv", "00000000-0000-0000-7B96-113A5F1ABDBD", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 D4 (WISE)", "2010-02-28T00:00:00", null, "6.373", "7.15", "122.19", "520.06", "105.66", "n/a", "Comet" ]
+, [ "row-ti6n.hcak~i996", "00000000-0000-0000-A50D-27AB7C6300A4", 0, 1437412816, null, 1437412816, null, "{ }", "C/2010 D3 (WISE)", "2010-02-26T00:00:00", null, "3.586", "4.25", "23255.11", "1254179.62", "76.39", "n/a", "Comet" ]
+, [ "row-d4gg.r38a.2d68", "00000000-0000-0000-8314-D7C1DB437FEA", 0, 1437412816, null, 1437412816, null, "{ }", "P/2010 D2 (WISE)", "2010-02-25T00:00:00", null, "2.945", "3.66", "9.72", "17.3", "57.18", "n/a", "Jupiter-family Comet*" ]
+, [ "row-87wx.eqi9_ndfs", "00000000-0000-0000-D86F-001F3095E68C", 0, 1437412816, null, 1437412816, null, "{ }", "P/2010 D1 (WISE)", "2010-02-17T00:00:00", null, "1.683", "2.67", "5.63", "8.45", "9.65", "n/a", "Jupiter-family Comet" ]
+, [ "row-pi4r~2v7a.dutu", "00000000-0000-0000-A9E9-7DCC97E4CE61", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 CN141)", "2010-02-14T00:00:00", "22.4", "0.06", "0.91", "2.12", "1.87", "23.8", "N", "Apollo" ]
+, [ "row-ftne~cykg~chhm", "00000000-0000-0000-29AB-FB85E0FE31A3", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 CP140)", "2010-02-13T00:00:00", "19.5", "0.097", "0.88", "2.92", "2.62", "14.47", "N", "Apollo" ]
+, [ "row-33rp.sp8w-hhan", "00000000-0000-0000-2927-C99332CD6B7C", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 CC55)", "2010-02-11T00:00:00", "22.5", "0.079", "0.82", "2.27", "1.92", "6.78", "N", "Apollo" ]
+, [ "row-gu7f-bfq6_jmyw", "00000000-0000-0000-8460-26925C2D7918", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 CA55)", "2010-02-05T00:00:00", "21.3", "0.151", "0.67", "9.89", "12.13", "58.85", "N", "Apollo" ]
+, [ "row-hjcx-qfyr~jdzu", "00000000-0000-0000-F012-FE76C2B01340", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 CH18)", "2010-02-09T00:00:00", "19", "0.333", "1.12", "4.09", "4.21", "27.15", "N", "Amor" ]
+, [ "row-akyu-v6qj_pyk6", "00000000-0000-0000-F5DB-BBCFC5701F94", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 CG18)", "2010-02-06T00:00:00", "20.8", "0.13", "1.11", "1.76", "1.73", "10.15", "N", "Amor" ]
+, [ "row-b5q5_gjzb-kw95", "00000000-0000-0000-D2BA-3FCC998A36CA", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 CO1)", "2010-02-01T00:00:00", "21.5", "0.023", "0.79", "1.23", "1.02", "24.03", "Y", "Apollo" ]
+, [ "row-cg86~wdha_t46w", "00000000-0000-0000-D99C-59A3478EA42A", 0, 1437412816, null, 1437412816, null, "{ }", "P/2010 B2 (WISE)", "2010-01-22T00:00:00", null, "0.63", "1.62", "4.6", "5.49", "8.93", "n/a", "Encke-type Comet" ]
+, [ "row-4apt.53tu~m2ys", "00000000-0000-0000-58F8-1A4AF6B70AB2", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 AU118)", "2010-01-13T00:00:00", "17.7", "0.147", "1.13", "2.12", "2.06", "43.73", "N", "Amor" ]
+, [ "row-ibd2-zykj_b5u5", "00000000-0000-0000-40DE-0DE1CA4494E3", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 AG79)", "2010-01-13T00:00:00", "19.9", "0.244", "1.22", "4.59", "4.95", "32.96", "N", "Amor" ]
+, [ "row-iqtu_fwvj-d7k5", "00000000-0000-0000-B3AE-DD33CC4AEBE2", 0, 1437412816, null, 1437412816, null, "{ }", "(2010 AB78)", "2010-01-12T00:00:00", "18.3", "0.206", "1.02", "3.49", "3.38", "33.26", "N", "Amor" ]
+ ]
+}

@@ -1,0 +1,1615 @@
+{
+  "data": [
+    {
+      "municipio_codigo": "001",
+      "densidad_por_km2": 3.019213174748399,
+      "municipio_codigo_ine": "280014",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Acebeda (La)",
+      "nuts4_codigo": "06",
+      "superficie_km2": 21.86
+    },
+    {
+      "municipio_codigo": "002",
+      "densidad_por_km2": 225.0,
+      "municipio_codigo_ine": "280029",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Ajalvir",
+      "nuts4_codigo": "03",
+      "superficie_km2": 19.8
+    },
+    {
+      "municipio_codigo": "003",
+      "densidad_por_km2": 7.743190661478599,
+      "municipio_codigo_ine": "280035",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Alameda del Valle",
+      "nuts4_codigo": "06",
+      "superficie_km2": 25.7
+    },
+    {
+      "municipio_codigo": "004",
+      "densidad_por_km2": 415.8636363636364,
+      "municipio_codigo_ine": "280040",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Alamo (El)",
+      "nuts4_codigo": "09",
+      "superficie_km2": 22.0
+    },
+    {
+      "municipio_codigo": "005",
+      "densidad_por_km2": 2205.311542390193,
+      "municipio_codigo_ine": "280053",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Alcalá de Henares",
+      "nuts4_codigo": "03",
+      "superficie_km2": 88.11000000000004
+    },
+    {
+      "municipio_codigo": "006",
+      "densidad_por_km2": 2538.992042440319,
+      "municipio_codigo_ine": "280066",
+      "nuts4_nombre": "Norte Metropolitano",
+      "municipio_nombre": "Alcobendas",
+      "nuts4_codigo": "02",
+      "superficie_km2": 45.23999999999999
+    },
+    {
+      "municipio_codigo": "007",
+      "densidad_por_km2": 5008.668453976766,
+      "municipio_codigo_ine": "280072",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Alcorcón",
+      "nuts4_codigo": "04",
+      "superficie_km2": 33.56999999999999
+    },
+    {
+      "municipio_codigo": "008",
+      "densidad_por_km2": 50.63879210220674,
+      "municipio_codigo_ine": "280088",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Aldea del Fresno",
+      "nuts4_codigo": "09",
+      "superficie_km2": 51.66
+    },
+    {
+      "municipio_codigo": "009",
+      "densidad_por_km2": 537.2007366482505,
+      "municipio_codigo_ine": "280091",
+      "nuts4_nombre": "Norte Metropolitano",
+      "municipio_nombre": "Algete",
+      "nuts4_codigo": "02",
+      "superficie_km2": 38.01
+    },
+    {
+      "municipio_codigo": "010",
+      "densidad_por_km2": 1124.8025276461294,
+      "municipio_codigo_ine": "280105",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Alpedrete",
+      "nuts4_codigo": "11",
+      "superficie_km2": 12.66
+    },
+    {
+      "municipio_codigo": "011",
+      "densidad_por_km2": 13.12015503875969,
+      "municipio_codigo_ine": "280112",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Ambite",
+      "nuts4_codigo": "08",
+      "superficie_km2": 51.6
+    },
+    {
+      "municipio_codigo": "012",
+      "densidad_por_km2": 57.34136174154701,
+      "municipio_codigo_ine": "280127",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Anchuelo",
+      "nuts4_codigo": "08",
+      "superficie_km2": 21.59
+    },
+    {
+      "municipio_codigo": "013",
+      "densidad_por_km2": 307.9889952912544,
+      "municipio_codigo_ine": "280133",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Aranjuez",
+      "nuts4_codigo": "04",
+      "superficie_km2": 189.01000000000002
+    },
+    {
+      "municipio_codigo": "014",
+      "densidad_por_km2": 670.4995639715959,
+      "municipio_codigo_ine": "280148",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Arganda del Rey",
+      "nuts4_codigo": "03",
+      "superficie_km2": 80.27
+    },
+    {
+      "municipio_codigo": "015",
+      "densidad_por_km2": 1401.732435033686,
+      "municipio_codigo_ine": "280151",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Arroyomolinos",
+      "nuts4_codigo": "09",
+      "superficie_km2": 20.780000000000005
+    },
+    {
+      "municipio_codigo": "016",
+      "densidad_por_km2": 3.4118888498065423,
+      "municipio_codigo_ine": "280164",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Atazar (El)",
+      "nuts4_codigo": "06",
+      "superficie_km2": 28.43
+    },
+    {
+      "municipio_codigo": "017",
+      "densidad_por_km2": 75.374531835206,
+      "municipio_codigo_ine": "280170",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Batres",
+      "nuts4_codigo": "09",
+      "superficie_km2": 21.36
+    },
+    {
+      "municipio_codigo": "018",
+      "densidad_por_km2": 184.1093117408907,
+      "municipio_codigo_ine": "280186",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Becerril de la Sierra",
+      "nuts4_codigo": "11",
+      "superficie_km2": 29.64
+    },
+    {
+      "municipio_codigo": "019",
+      "densidad_por_km2": 67.63606148732862,
+      "municipio_codigo_ine": "280199",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Belmonte de Tajo",
+      "nuts4_codigo": "08",
+      "superficie_km2": 24.07
+    },
+    {
+      "municipio_codigo": "020",
+      "densidad_por_km2": 13.885088919288647,
+      "municipio_codigo_ine": "280203",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Berzosa del Lozoya",
+      "nuts4_codigo": "06",
+      "superficie_km2": 14.62
+    },
+    {
+      "municipio_codigo": "021",
+      "densidad_por_km2": 26.161971830985916,
+      "municipio_codigo_ine": "280210",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Berrueco (El)",
+      "nuts4_codigo": "06",
+      "superficie_km2": 28.4
+    },
+    {
+      "municipio_codigo": "022",
+      "densidad_por_km2": 1086.1756015196281,
+      "municipio_codigo_ine": "280225",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Boadilla del Monte",
+      "nuts4_codigo": "05",
+      "superficie_km2": 47.38000000000002
+    },
+    {
+      "municipio_codigo": "023",
+      "densidad_por_km2": 186.751269035533,
+      "municipio_codigo_ine": "280231",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Boalo (El)",
+      "nuts4_codigo": "11",
+      "superficie_km2": 39.4
+    },
+    {
+      "municipio_codigo": "024",
+      "densidad_por_km2": 8.34336141195347,
+      "municipio_codigo_ine": "280246",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Braojos",
+      "nuts4_codigo": "06",
+      "superficie_km2": 24.93
+    },
+    {
+      "municipio_codigo": "025",
+      "densidad_por_km2": 12.050078247261347,
+      "municipio_codigo_ine": "280259",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Brea de Tajo",
+      "nuts4_codigo": "08",
+      "superficie_km2": 44.73
+    },
+    {
+      "municipio_codigo": "026",
+      "densidad_por_km2": 210.96196868008948,
+      "municipio_codigo_ine": "280262",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Brunete",
+      "nuts4_codigo": "05",
+      "superficie_km2": 49.17
+    },
+    {
+      "municipio_codigo": "027",
+      "densidad_por_km2": 71.52777777777777,
+      "municipio_codigo_ine": "280278",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Buitrago del Lozoya",
+      "nuts4_codigo": "06",
+      "superficie_km2": 25.92
+    },
+    {
+      "municipio_codigo": "028",
+      "densidad_por_km2": 42.740067699982184,
+      "municipio_codigo_ine": "280284",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Bustarviejo",
+      "nuts4_codigo": "06",
+      "superficie_km2": 56.13
+    },
+    {
+      "municipio_codigo": "029",
+      "densidad_por_km2": 51.556842867487326,
+      "municipio_codigo_ine": "280297",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Cabanillas de la Sierra",
+      "nuts4_codigo": "06",
+      "superficie_km2": 13.81
+    },
+    {
+      "municipio_codigo": "030",
+      "densidad_por_km2": 116.07949412827462,
+      "municipio_codigo_ine": "280301",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Cabrera (La)",
+      "nuts4_codigo": "06",
+      "superficie_km2": 22.14
+    },
+    {
+      "municipio_codigo": "031",
+      "densidad_por_km2": 63.81688963210702,
+      "municipio_codigo_ine": "280318",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Cadalso de los Vidrios",
+      "nuts4_codigo": "10",
+      "superficie_km2": 47.84
+    },
+    {
+      "municipio_codigo": "032",
+      "densidad_por_km2": 201.5362731152205,
+      "municipio_codigo_ine": "280323",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Camarma de Esteruelas",
+      "nuts4_codigo": "07",
+      "superficie_km2": 35.15
+    },
+    {
+      "municipio_codigo": "033",
+      "densidad_por_km2": 97.08502024291498,
+      "municipio_codigo_ine": "280339",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Campo Real",
+      "nuts4_codigo": "08",
+      "superficie_km2": 61.75
+    },
+    {
+      "municipio_codigo": "034",
+      "densidad_por_km2": 8.268733850129198,
+      "municipio_codigo_ine": "280344",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Canencia",
+      "nuts4_codigo": "06",
+      "superficie_km2": 54.18
+    },
+    {
+      "municipio_codigo": "035",
+      "densidad_por_km2": 40.72208228379513,
+      "municipio_codigo_ine": "280357",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Carabaña",
+      "nuts4_codigo": "08",
+      "superficie_km2": 47.64
+    },
+    {
+      "municipio_codigo": "036",
+      "densidad_por_km2": 684.8030018761726,
+      "municipio_codigo_ine": "280360",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Casarrubuelos",
+      "nuts4_codigo": "09",
+      "superficie_km2": 5.33
+    },
+    {
+      "municipio_codigo": "037",
+      "densidad_por_km2": 29.06959706959707,
+      "municipio_codigo_ine": "280376",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Cenicientos",
+      "nuts4_codigo": "10",
+      "superficie_km2": 68.25
+    },
+    {
+      "municipio_codigo": "038",
+      "densidad_por_km2": 167.88339049485546,
+      "municipio_codigo_ine": "280382",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Cercedilla",
+      "nuts4_codigo": "11",
+      "superficie_km2": 40.82
+    },
+    {
+      "municipio_codigo": "039",
+      "densidad_por_km2": 13.518197573656847,
+      "municipio_codigo_ine": "280395",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Cervera de Buitrago",
+      "nuts4_codigo": "06",
+      "superficie_km2": 11.54
+    },
+    {
+      "municipio_codigo": "040",
+      "densidad_por_km2": 480.40882412467124,
+      "municipio_codigo_ine": "280409",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Ciempozuelos",
+      "nuts4_codigo": "04",
+      "superficie_km2": 49.40999999999999
+    },
+    {
+      "municipio_codigo": "041",
+      "densidad_por_km2": 344.54064454064456,
+      "municipio_codigo_ine": "280416",
+      "nuts4_nombre": "Norte Metropolitano",
+      "municipio_nombre": "Cobeña",
+      "nuts4_codigo": "02",
+      "superficie_km2": 20.79
+    },
+    {
+      "municipio_codigo": "042",
+      "densidad_por_km2": 33.09673494220239,
+      "municipio_codigo_ine": "280421",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Colmenar del Arroyo",
+      "nuts4_codigo": "10",
+      "superficie_km2": 49.31
+    },
+    {
+      "municipio_codigo": "043",
+      "densidad_por_km2": 61.82221166785403,
+      "municipio_codigo_ine": "280437",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Colmenar de Oreja",
+      "nuts4_codigo": "08",
+      "superficie_km2": 126.33000000000001
+    },
+    {
+      "municipio_codigo": "044",
+      "densidad_por_km2": 286.2813591616386,
+      "municipio_codigo_ine": "280442",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Colmenarejo",
+      "nuts4_codigo": "11",
+      "superficie_km2": 31.490000000000002
+    },
+    {
+      "municipio_codigo": "045",
+      "densidad_por_km2": 265.82458442694656,
+      "municipio_codigo_ine": "280455",
+      "nuts4_nombre": "Norte Metropolitano",
+      "municipio_nombre": "Colmenar Viejo",
+      "nuts4_codigo": "02",
+      "superficie_km2": 182.88000000000005
+    },
+    {
+      "municipio_codigo": "046",
+      "densidad_por_km2": 300.405588102749,
+      "municipio_codigo_ine": "280468",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Collado Mediano",
+      "nuts4_codigo": "11",
+      "superficie_km2": 22.19
+    },
+    {
+      "municipio_codigo": "047",
+      "densidad_por_km2": 2467.3283048828903,
+      "municipio_codigo_ine": "280474",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Collado Villalba",
+      "nuts4_codigo": "05",
+      "superficie_km2": 25.189999999999998
+    },
+    {
+      "municipio_codigo": "048",
+      "densidad_por_km2": 26.36854279105628,
+      "municipio_codigo_ine": "280480",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Corpa",
+      "nuts4_codigo": "08",
+      "superficie_km2": 25.94
+    },
+    {
+      "municipio_codigo": "049",
+      "densidad_por_km2": 6906.073211314479,
+      "municipio_codigo_ine": "280493",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Coslada",
+      "nuts4_codigo": "03",
+      "superficie_km2": 12.019999999999996
+    },
+    {
+      "municipio_codigo": "050",
+      "densidad_por_km2": 474.1660201706749,
+      "municipio_codigo_ine": "280506",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Cubas de la Sagra",
+      "nuts4_codigo": "09",
+      "superficie_km2": 12.89
+    },
+    {
+      "municipio_codigo": "051",
+      "densidad_por_km2": 87.08414872798434,
+      "municipio_codigo_ine": "280513",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Chapinería",
+      "nuts4_codigo": "10",
+      "superficie_km2": 25.55
+    },
+    {
+      "municipio_codigo": "052",
+      "densidad_por_km2": 45.254339753001126,
+      "municipio_codigo_ine": "280528",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Chinchón",
+      "nuts4_codigo": "08",
+      "superficie_km2": 115.78999999999999
+    },
+    {
+      "municipio_codigo": "053",
+      "densidad_por_km2": 232.30414746543775,
+      "municipio_codigo_ine": "280534",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Daganzo de Arriba",
+      "nuts4_codigo": "07",
+      "superficie_km2": 43.400000000000006
+    },
+    {
+      "municipio_codigo": "054",
+      "densidad_por_km2": 226.15898851911058,
+      "municipio_codigo_ine": "280549",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Escorial (El)",
+      "nuts4_codigo": "11",
+      "superficie_km2": 68.81
+    },
+    {
+      "municipio_codigo": "055",
+      "densidad_por_km2": 15.935801845065084,
+      "municipio_codigo_ine": "280552",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Estremera",
+      "nuts4_codigo": "08",
+      "superficie_km2": 79.13
+    },
+    {
+      "municipio_codigo": "056",
+      "densidad_por_km2": 54.69301340860974,
+      "municipio_codigo_ine": "280565",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Fresnedillas de la Oliva",
+      "nuts4_codigo": "10",
+      "superficie_km2": 28.34
+    },
+    {
+      "municipio_codigo": "057",
+      "densidad_por_km2": 66.61417322834646,
+      "municipio_codigo_ine": "280571",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Fresno de Torote",
+      "nuts4_codigo": "07",
+      "superficie_km2": 31.75
+    },
+    {
+      "municipio_codigo": "058",
+      "densidad_por_km2": 4968.580908626851,
+      "municipio_codigo_ine": "280587",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Fuenlabrada",
+      "nuts4_codigo": "04",
+      "superficie_km2": 39.17999999999999
+    },
+    {
+      "municipio_codigo": "059",
+      "densidad_por_km2": 193.78582202111616,
+      "municipio_codigo_ine": "280590",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Fuente el Saz de Jarama",
+      "nuts4_codigo": "07",
+      "superficie_km2": 33.15
+    },
+    {
+      "municipio_codigo": "060",
+      "densidad_por_km2": 32.901296111665005,
+      "municipio_codigo_ine": "280604",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Fuentidueña de Tajo",
+      "nuts4_codigo": "08",
+      "superficie_km2": 60.18
+    },
+    {
+      "municipio_codigo": "061",
+      "densidad_por_km2": 504.64723926380367,
+      "municipio_codigo_ine": "280611",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Galapagar",
+      "nuts4_codigo": "05",
+      "superficie_km2": 65.2
+    },
+    {
+      "municipio_codigo": "062",
+      "densidad_por_km2": 8.207289858666005,
+      "municipio_codigo_ine": "280626",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Garganta de los Montes",
+      "nuts4_codigo": "06",
+      "superficie_km2": 40.33
+    },
+    {
+      "municipio_codigo": "063",
+      "densidad_por_km2": 13.027295285359802,
+      "municipio_codigo_ine": "280632",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "nuts4_codigo": "06",
+      "superficie_km2": 24.18
+    },
+    {
+      "municipio_codigo": "064",
+      "densidad_por_km2": 8.769307424015944,
+      "municipio_codigo_ine": "280647",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Gascones",
+      "nuts4_codigo": "06",
+      "superficie_km2": 20.07
+    },
+    {
+      "municipio_codigo": "065",
+      "densidad_por_km2": 2268.5837892861678,
+      "municipio_codigo_ine": "280650",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Getafe",
+      "nuts4_codigo": "04",
+      "superficie_km2": 78.59000000000003
+    },
+    {
+      "municipio_codigo": "066",
+      "densidad_por_km2": 588.6483323581043,
+      "municipio_codigo_ine": "280663",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Griñón",
+      "nuts4_codigo": "09",
+      "superficie_km2": 17.089999999999996
+    },
+    {
+      "municipio_codigo": "067",
+      "densidad_por_km2": 100.38167938931298,
+      "municipio_codigo_ine": "280679",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Guadalix de la Sierra",
+      "nuts4_codigo": "06",
+      "superficie_km2": 60.26
+    },
+    {
+      "municipio_codigo": "068",
+      "densidad_por_km2": 273.172437915355,
+      "municipio_codigo_ine": "280685",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Guadarrama",
+      "nuts4_codigo": "11",
+      "superficie_km2": 57.18000000000001
+    },
+    {
+      "municipio_codigo": "069",
+      "densidad_por_km2": 3.0303030303030303,
+      "municipio_codigo_ine": "280698",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Hiruela (La)",
+      "nuts4_codigo": "06",
+      "superficie_km2": 17.16
+    },
+    {
+      "municipio_codigo": "070",
+      "densidad_por_km2": 6.69811320754717,
+      "municipio_codigo_ine": "280702",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Horcajo de la Sierra-Aoslos",
+      "nuts4_codigo": "06",
+      "superficie_km2": 21.2
+    },
+    {
+      "municipio_codigo": "071",
+      "densidad_por_km2": 3.692824171212757,
+      "municipio_codigo_ine": "280719",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Horcajuelo de la Sierra",
+      "nuts4_codigo": "06",
+      "superficie_km2": 23.83
+    },
+    {
+      "municipio_codigo": "072",
+      "densidad_por_km2": 177.5812513818262,
+      "municipio_codigo_ine": "280724",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Hoyo de Manzanares",
+      "nuts4_codigo": "05",
+      "superficie_km2": 45.230000000000004
+    },
+    {
+      "municipio_codigo": "073",
+      "densidad_por_km2": 997.3041709053919,
+      "municipio_codigo_ine": "280730",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Humanes de Madrid",
+      "nuts4_codigo": "04",
+      "superficie_km2": 19.659999999999997
+    },
+    {
+      "municipio_codigo": "074",
+      "densidad_por_km2": 4342.354846171637,
+      "municipio_codigo_ine": "280745",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Leganés",
+      "nuts4_codigo": "04",
+      "superficie_km2": 43.230000000000025
+    },
+    {
+      "municipio_codigo": "075",
+      "densidad_por_km2": 192.35108303249098,
+      "municipio_codigo_ine": "280758",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Loeches",
+      "nuts4_codigo": "08",
+      "superficie_km2": 44.32
+    },
+    {
+      "municipio_codigo": "076",
+      "densidad_por_km2": 9.68972092217022,
+      "municipio_codigo_ine": "280761",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Lozoya",
+      "nuts4_codigo": "06",
+      "superficie_km2": 57.69
+    },
+    {
+      "municipio_codigo": "078",
+      "densidad_por_km2": 5.380116959064327,
+      "municipio_codigo_ine": "280783",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Madarcos",
+      "nuts4_codigo": "06",
+      "superficie_km2": 8.55
+    },
+    {
+      "municipio_codigo": "079",
+      "densidad_por_km2": 5264.0839480038385,
+      "municipio_codigo_ine": "280796",
+      "nuts4_nombre": "Municipio de Madrid",
+      "municipio_nombre": "Madrid ",
+      "nuts4_codigo": "01",
+      "superficie_km2": 604.6599999999999
+    },
+    {
+      "municipio_codigo": "080",
+      "densidad_por_km2": 1853.366259422927,
+      "municipio_codigo_ine": "280800",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Majadahonda",
+      "nuts4_codigo": "05",
+      "superficie_km2": 38.47
+    },
+    {
+      "municipio_codigo": "082",
+      "densidad_por_km2": 66.24581092666199,
+      "municipio_codigo_ine": "280822",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Manzanares el Real",
+      "nuts4_codigo": "11",
+      "superficie_km2": 128.31
+    },
+    {
+      "municipio_codigo": "083",
+      "densidad_por_km2": 388.4912682507873,
+      "municipio_codigo_ine": "280838",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Meco",
+      "nuts4_codigo": "07",
+      "superficie_km2": 34.93
+    },
+    {
+      "municipio_codigo": "084",
+      "densidad_por_km2": 1279.8661461238148,
+      "municipio_codigo_ine": "280843",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Mejorada del Campo",
+      "nuts4_codigo": "03",
+      "superficie_km2": 17.93
+    },
+    {
+      "municipio_codigo": "085",
+      "densidad_por_km2": 103.13829787234042,
+      "municipio_codigo_ine": "280856",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Miraflores de la Sierra",
+      "nuts4_codigo": "11",
+      "superficie_km2": 56.400000000000006
+    },
+    {
+      "municipio_codigo": "086",
+      "densidad_por_km2": 169.1771269177127,
+      "municipio_codigo_ine": "280869",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Molar (El)",
+      "nuts4_codigo": "07",
+      "superficie_km2": 50.19
+    },
+    {
+      "municipio_codigo": "087",
+      "densidad_por_km2": 226.77453027139876,
+      "municipio_codigo_ine": "280875",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Molinos (Los)",
+      "nuts4_codigo": "11",
+      "superficie_km2": 19.16
+    },
+    {
+      "municipio_codigo": "088",
+      "densidad_por_km2": 11.062771908017401,
+      "municipio_codigo_ine": "280881",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Montejo de la Sierra",
+      "nuts4_codigo": "06",
+      "superficie_km2": 32.18
+    },
+    {
+      "municipio_codigo": "089",
+      "densidad_por_km2": 156.2399743342958,
+      "municipio_codigo_ine": "280894",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Moraleja de Enmedio",
+      "nuts4_codigo": "09",
+      "superficie_km2": 31.17
+    },
+    {
+      "municipio_codigo": "090",
+      "densidad_por_km2": 286.86868686868684,
+      "municipio_codigo_ine": "280908",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Moralzarzal",
+      "nuts4_codigo": "11",
+      "superficie_km2": 43.56
+    },
+    {
+      "municipio_codigo": "091",
+      "densidad_por_km2": 165.2020313534997,
+      "municipio_codigo_ine": "280915",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Morata de Tajuña",
+      "nuts4_codigo": "08",
+      "superficie_km2": 45.28999999999999
+    },
+    {
+      "municipio_codigo": "092",
+      "densidad_por_km2": 4601.0913140311795,
+      "municipio_codigo_ine": "280920",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Móstoles",
+      "nuts4_codigo": "04",
+      "superficie_km2": 44.90000000000001
+    },
+    {
+      "municipio_codigo": "093",
+      "densidad_por_km2": 105.19810977826245,
+      "municipio_codigo_ine": "280936",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Navacerrada",
+      "nuts4_codigo": "11",
+      "superficie_km2": 27.51
+    },
+    {
+      "municipio_codigo": "094",
+      "densidad_por_km2": 110.01642036124795,
+      "municipio_codigo_ine": "280941",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Navalafuente",
+      "nuts4_codigo": "06",
+      "superficie_km2": 12.18
+    },
+    {
+      "municipio_codigo": "095",
+      "densidad_por_km2": 32.24656810982049,
+      "municipio_codigo_ine": "280954",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Navalagamella",
+      "nuts4_codigo": "10",
+      "superficie_km2": 75.76
+    },
+    {
+      "municipio_codigo": "096",
+      "densidad_por_km2": 273.4034113447044,
+      "municipio_codigo_ine": "280967",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Navalcarnero",
+      "nuts4_codigo": "09",
+      "superficie_km2": 100.84000000000002
+    },
+    {
+      "municipio_codigo": "097",
+      "densidad_por_km2": 4.6013347383210395,
+      "municipio_codigo_ine": "280973",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Navarredonda y San Mamés",
+      "nuts4_codigo": "06",
+      "superficie_km2": 28.47
+    },
+    {
+      "municipio_codigo": "099",
+      "densidad_por_km2": 54.4644624826767,
+      "municipio_codigo_ine": "280992",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Navas del Rey",
+      "nuts4_codigo": "10",
+      "superficie_km2": 50.51
+    },
+    {
+      "municipio_codigo": "100",
+      "densidad_por_km2": 303.0348258706467,
+      "municipio_codigo_ine": "281006",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Nuevo Baztán",
+      "nuts4_codigo": "08",
+      "superficie_km2": 20.1
+    },
+    {
+      "municipio_codigo": "101",
+      "densidad_por_km2": 20.09685230024213,
+      "municipio_codigo_ine": "281013",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Olmeda de las Fuentes",
+      "nuts4_codigo": "08",
+      "superficie_km2": 16.52
+    },
+    {
+      "municipio_codigo": "102",
+      "densidad_por_km2": 57.02247191011236,
+      "municipio_codigo_ine": "281028",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Orusco de Tajuña",
+      "nuts4_codigo": "08",
+      "superficie_km2": 21.36
+    },
+    {
+      "municipio_codigo": "104",
+      "densidad_por_km2": 546.0255824577432,
+      "municipio_codigo_ine": "281049",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Paracuellos de Jarama",
+      "nuts4_codigo": "03",
+      "superficie_km2": 43.78
+    },
+    {
+      "municipio_codigo": "106",
+      "densidad_por_km2": 5031.894484412471,
+      "municipio_codigo_ine": "281065",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Parla",
+      "nuts4_codigo": "04",
+      "superficie_km2": 25.019999999999996
+    },
+    {
+      "municipio_codigo": "107",
+      "densidad_por_km2": 15.768463073852296,
+      "municipio_codigo_ine": "281071",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Patones",
+      "nuts4_codigo": "06",
+      "superficie_km2": 35.07
+    },
+    {
+      "municipio_codigo": "108",
+      "densidad_por_km2": 196.67133847231955,
+      "municipio_codigo_ine": "281087",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Pedrezuela",
+      "nuts4_codigo": "06",
+      "superficie_km2": 28.54
+    },
+    {
+      "municipio_codigo": "109",
+      "densidad_por_km2": 326.0237780713342,
+      "municipio_codigo_ine": "281090",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Pelayos de la Presa",
+      "nuts4_codigo": "10",
+      "superficie_km2": 7.57
+    },
+    {
+      "municipio_codigo": "110",
+      "densidad_por_km2": 57.40778479722845,
+      "municipio_codigo_ine": "281104",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Perales de Tajuña",
+      "nuts4_codigo": "08",
+      "superficie_km2": 49.07
+    },
+    {
+      "municipio_codigo": "111",
+      "densidad_por_km2": 19.57773512476008,
+      "municipio_codigo_ine": "281111",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Pezuela de las Torres",
+      "nuts4_codigo": "08",
+      "superficie_km2": 41.68
+    },
+    {
+      "municipio_codigo": "112",
+      "densidad_por_km2": 7.269155206286837,
+      "municipio_codigo_ine": "281126",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Pinilla del Valle",
+      "nuts4_codigo": "06",
+      "superficie_km2": 25.45
+    },
+    {
+      "municipio_codigo": "113",
+      "densidad_por_km2": 813.843175217812,
+      "municipio_codigo_ine": "281132",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Pinto",
+      "nuts4_codigo": "04",
+      "superficie_km2": 61.98000000000001
+    },
+    {
+      "municipio_codigo": "114",
+      "densidad_por_km2": 10.032894736842106,
+      "municipio_codigo_ine": "281147",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Piñuecar-Gandullas",
+      "nuts4_codigo": "06",
+      "superficie_km2": 18.24
+    },
+    {
+      "municipio_codigo": "115",
+      "densidad_por_km2": 1986.1948955916469,
+      "municipio_codigo_ine": "281150",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Pozuelo de Alarcón",
+      "nuts4_codigo": "05",
+      "superficie_km2": 43.10000000000001
+    },
+    {
+      "municipio_codigo": "116",
+      "densidad_por_km2": 35.55483662245228,
+      "municipio_codigo_ine": "281163",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Pozuelo del Rey",
+      "nuts4_codigo": "08",
+      "superficie_km2": 30.91
+    },
+    {
+      "municipio_codigo": "117",
+      "densidad_por_km2": 5.866666666666666,
+      "municipio_codigo_ine": "281179",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Prádena del Rincón",
+      "nuts4_codigo": "06",
+      "superficie_km2": 22.5
+    },
+    {
+      "municipio_codigo": "118",
+      "densidad_por_km2": 1.0760275180807903,
+      "municipio_codigo_ine": "281185",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Puebla de la Sierra",
+      "nuts4_codigo": "06",
+      "superficie_km2": 56.69
+    },
+    {
+      "municipio_codigo": "119",
+      "densidad_por_km2": 127.80373831775701,
+      "municipio_codigo_ine": "281198",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Quijorna",
+      "nuts4_codigo": "09",
+      "superficie_km2": 25.68
+    },
+    {
+      "municipio_codigo": "120",
+      "densidad_por_km2": 11.20042872454448,
+      "municipio_codigo_ine": "281202",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Rascafría",
+      "nuts4_codigo": "06",
+      "superficie_km2": 149.28
+    },
+    {
+      "municipio_codigo": "121",
+      "densidad_por_km2": 19.033000767459708,
+      "municipio_codigo_ine": "281219",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Redueña",
+      "nuts4_codigo": "06",
+      "superficie_km2": 13.03
+    },
+    {
+      "municipio_codigo": "122",
+      "densidad_por_km2": 21.828358208955226,
+      "municipio_codigo_ine": "281224",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Ribatejada",
+      "nuts4_codigo": "07",
+      "superficie_km2": 32.16
+    },
+    {
+      "municipio_codigo": "123",
+      "densidad_por_km2": 1242.2808838795786,
+      "municipio_codigo_ine": "281230",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Rivas-Vaciamadrid",
+      "nuts4_codigo": "03",
+      "superficie_km2": 67.43
+    },
+    {
+      "municipio_codigo": "124",
+      "densidad_por_km2": 4.138915318744053,
+      "municipio_codigo_ine": "281245",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Robledillo de la Jara",
+      "nuts4_codigo": "06",
+      "superficie_km2": 21.02
+    },
+    {
+      "municipio_codigo": "125",
+      "densidad_por_km2": 43.2607541157727,
+      "municipio_codigo_ine": "281258",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Robledo de Chavela",
+      "nuts4_codigo": "10",
+      "superficie_km2": 94.15
+    },
+    {
+      "municipio_codigo": "126",
+      "densidad_por_km2": 2.3978201634877383,
+      "municipio_codigo_ine": "281261",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Robregordo",
+      "nuts4_codigo": "06",
+      "superficie_km2": 18.35
+    },
+    {
+      "municipio_codigo": "127",
+      "densidad_por_km2": 1631.2800274536714,
+      "municipio_codigo_ine": "281277",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Rozas de Madrid (Las)",
+      "nuts4_codigo": "05",
+      "superficie_km2": 58.280000000000015
+    },
+    {
+      "municipio_codigo": "128",
+      "densidad_por_km2": 18.071065989847714,
+      "municipio_codigo_ine": "281283",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Rozas de Puerto Real",
+      "nuts4_codigo": "10",
+      "superficie_km2": 29.55
+    },
+    {
+      "municipio_codigo": "129",
+      "densidad_por_km2": 342.8309785452642,
+      "municipio_codigo_ine": "281296",
+      "nuts4_nombre": "Norte Metropolitano",
+      "municipio_nombre": "San Agustín del Guadalix",
+      "nuts4_codigo": "02",
+      "superficie_km2": 38.220000000000006
+    },
+    {
+      "municipio_codigo": "130",
+      "densidad_por_km2": 1021.6529351184345,
+      "municipio_codigo_ine": "281300",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "San Fernando de Henares",
+      "nuts4_codigo": "03",
+      "superficie_km2": 38.84
+    },
+    {
+      "municipio_codigo": "131",
+      "densidad_por_km2": 319.68783256473927,
+      "municipio_codigo_ine": "281317",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "San Lorenzo de El Escorial",
+      "nuts4_codigo": "11",
+      "superficie_km2": 56.379999999999995
+    },
+    {
+      "municipio_codigo": "132",
+      "densidad_por_km2": 179.1056137012369,
+      "municipio_codigo_ine": "281322",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "San Martín de la Vega",
+      "nuts4_codigo": "04",
+      "superficie_km2": 105.10000000000001
+    },
+    {
+      "municipio_codigo": "133",
+      "densidad_por_km2": 71.2764129874592,
+      "municipio_codigo_ine": "281338",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "San Martín de Valdeiglesias",
+      "nuts4_codigo": "10",
+      "superficie_km2": 116.42
+    },
+    {
+      "municipio_codigo": "134",
+      "densidad_por_km2": 1467.1235194585447,
+      "municipio_codigo_ine": "281343",
+      "nuts4_nombre": "Norte Metropolitano",
+      "municipio_nombre": "San Sebastián de los Reyes",
+      "nuts4_codigo": "02",
+      "superficie_km2": 59.10000000000001
+    },
+    {
+      "municipio_codigo": "135",
+      "densidad_por_km2": 15.371398361089083,
+      "municipio_codigo_ine": "281356",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Santa María de la Alameda",
+      "nuts4_codigo": "10",
+      "superficie_km2": 75.66
+    },
+    {
+      "municipio_codigo": "136",
+      "densidad_por_km2": 30.33309709425939,
+      "municipio_codigo_ine": "281369",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Santorcaz",
+      "nuts4_codigo": "08",
+      "superficie_km2": 28.22
+    },
+    {
+      "municipio_codigo": "137",
+      "densidad_por_km2": 71.3957495692131,
+      "municipio_codigo_ine": "281375",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Santos de la Humosa (Los)",
+      "nuts4_codigo": "08",
+      "superficie_km2": 34.82
+    },
+    {
+      "municipio_codigo": "138",
+      "densidad_por_km2": 13.224637681159422,
+      "municipio_codigo_ine": "281381",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Serna del Monte (La)",
+      "nuts4_codigo": "06",
+      "superficie_km2": 5.52
+    },
+    {
+      "municipio_codigo": "140",
+      "densidad_por_km2": 298.4951091045899,
+      "municipio_codigo_ine": "281408",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Serranillos del Valle",
+      "nuts4_codigo": "09",
+      "superficie_km2": 13.29
+    },
+    {
+      "municipio_codigo": "141",
+      "densidad_por_km2": 367.54244139046074,
+      "municipio_codigo_ine": "281415",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Sevilla la Nueva",
+      "nuts4_codigo": "09",
+      "superficie_km2": 24.740000000000002
+    },
+    {
+      "municipio_codigo": "143",
+      "densidad_por_km2": 3.774509803921569,
+      "municipio_codigo_ine": "281436",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Somosierra",
+      "nuts4_codigo": "06",
+      "superficie_km2": 20.4
+    },
+    {
+      "municipio_codigo": "144",
+      "densidad_por_km2": 200.9103641456583,
+      "municipio_codigo_ine": "281441",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Soto del Real",
+      "nuts4_codigo": "11",
+      "superficie_km2": 42.839999999999996
+    },
+    {
+      "municipio_codigo": "145",
+      "densidad_por_km2": 92.85343035343035,
+      "municipio_codigo_ine": "281454",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Talamanca de Jarama",
+      "nuts4_codigo": "07",
+      "superficie_km2": 38.48
+    },
+    {
+      "municipio_codigo": "146",
+      "densidad_por_km2": 98.1941309255079,
+      "municipio_codigo_ine": "281467",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Tielmes",
+      "nuts4_codigo": "08",
+      "superficie_km2": 26.58
+    },
+    {
+      "municipio_codigo": "147",
+      "densidad_por_km2": 126.01384767556875,
+      "municipio_codigo_ine": "281473",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Titulcia",
+      "nuts4_codigo": "08",
+      "superficie_km2": 10.11
+    },
+    {
+      "municipio_codigo": "148",
+      "densidad_por_km2": 3948.581122763726,
+      "municipio_codigo_ine": "281489",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Torrejón de Ardoz",
+      "nuts4_codigo": "03",
+      "superficie_km2": 32.42
+    },
+    {
+      "municipio_codigo": "149",
+      "densidad_por_km2": 938.4615384615383,
+      "municipio_codigo_ine": "281492",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Torrejón de la Calzada",
+      "nuts4_codigo": "09",
+      "superficie_km2": 8.97
+    },
+    {
+      "municipio_codigo": "150",
+      "densidad_por_km2": 81.6909509202454,
+      "municipio_codigo_ine": "281505",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Torrejón de Velasco",
+      "nuts4_codigo": "09",
+      "superficie_km2": 52.16
+    },
+    {
+      "municipio_codigo": "151",
+      "densidad_por_km2": 109.42870413376683,
+      "municipio_codigo_ine": "281512",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Torrelaguna",
+      "nuts4_codigo": "06",
+      "superficie_km2": 43.06
+    },
+    {
+      "municipio_codigo": "152",
+      "densidad_por_km2": 1067.2819566220583,
+      "municipio_codigo_ine": "281527",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Torrelodones",
+      "nuts4_codigo": "05",
+      "superficie_km2": 21.669999999999998
+    },
+    {
+      "municipio_codigo": "153",
+      "densidad_por_km2": 49.94697773064687,
+      "municipio_codigo_ine": "281533",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Torremocha de Jarama",
+      "nuts4_codigo": "06",
+      "superficie_km2": 18.86
+    },
+    {
+      "municipio_codigo": "154",
+      "densidad_por_km2": 180.5491462851869,
+      "municipio_codigo_ine": "281548",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Torres de la Alameda",
+      "nuts4_codigo": "08",
+      "superficie_km2": 43.339999999999996
+    },
+    {
+      "municipio_codigo": "155",
+      "densidad_por_km2": 10.078369905956114,
+      "municipio_codigo_ine": "281551",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Valdaracete",
+      "nuts4_codigo": "08",
+      "superficie_km2": 63.8
+    },
+    {
+      "municipio_codigo": "156",
+      "densidad_por_km2": 77.4986638161411,
+      "municipio_codigo_ine": "281564",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Valdeavero",
+      "nuts4_codigo": "07",
+      "superficie_km2": 18.71
+    },
+    {
+      "municipio_codigo": "157",
+      "densidad_por_km2": 20.515854235683864,
+      "municipio_codigo_ine": "281570",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Valdelaguna",
+      "nuts4_codigo": "08",
+      "superficie_km2": 42.26
+    },
+    {
+      "municipio_codigo": "158",
+      "densidad_por_km2": 51.48960089938168,
+      "municipio_codigo_ine": "281586",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Valdemanco",
+      "nuts4_codigo": "06",
+      "superficie_km2": 17.79
+    },
+    {
+      "municipio_codigo": "159",
+      "densidad_por_km2": 14.829117590268392,
+      "municipio_codigo_ine": "281599",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Valdemaqueda",
+      "nuts4_codigo": "10",
+      "superficie_km2": 51.79
+    },
+    {
+      "municipio_codigo": "160",
+      "densidad_por_km2": 131.13006396588486,
+      "municipio_codigo_ine": "281603",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Valdemorillo",
+      "nuts4_codigo": "11",
+      "superficie_km2": 93.8
+    },
+    {
+      "municipio_codigo": "161",
+      "densidad_por_km2": 1152.992518703242,
+      "municipio_codigo_ine": "281610",
+      "nuts4_nombre": "Sur Metropolitano",
+      "municipio_nombre": "Valdemoro",
+      "nuts4_codigo": "04",
+      "superficie_km2": 64.16
+    },
+    {
+      "municipio_codigo": "162",
+      "densidad_por_km2": 151.1609907120743,
+      "municipio_codigo_ine": "281625",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Valdeolmos-Alalpardo",
+      "nuts4_codigo": "07",
+      "superficie_km2": 25.84
+    },
+    {
+      "municipio_codigo": "163",
+      "densidad_por_km2": 33.23895809739524,
+      "municipio_codigo_ine": "281631",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Valdepiélagos",
+      "nuts4_codigo": "07",
+      "superficie_km2": 17.66
+    },
+    {
+      "municipio_codigo": "164",
+      "densidad_por_km2": 123.0681494154548,
+      "municipio_codigo_ine": "281646",
+      "nuts4_nombre": "Nordeste Comunidad",
+      "municipio_nombre": "Valdetorres de Jarama",
+      "nuts4_codigo": "07",
+      "superficie_km2": 35.07
+    },
+    {
+      "municipio_codigo": "165",
+      "densidad_por_km2": 64.71693680996006,
+      "municipio_codigo_ine": "281659",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Valdilecha",
+      "nuts4_codigo": "08",
+      "superficie_km2": 42.57
+    },
+    {
+      "municipio_codigo": "166",
+      "densidad_por_km2": 31.077147016011644,
+      "municipio_codigo_ine": "281662",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Valverde de Alcalá",
+      "nuts4_codigo": "08",
+      "superficie_km2": 13.74
+    },
+    {
+      "municipio_codigo": "167",
+      "densidad_por_km2": 842.7974947807934,
+      "municipio_codigo_ine": "281678",
+      "nuts4_nombre": "Este Metropolitano",
+      "municipio_nombre": "Velilla de San Antonio",
+      "nuts4_codigo": "03",
+      "superficie_km2": 14.37
+    },
+    {
+      "municipio_codigo": "168",
+      "densidad_por_km2": 54.762615706180945,
+      "municipio_codigo_ine": "281684",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Vellón (El)",
+      "nuts4_codigo": "06",
+      "superficie_km2": 33.49
+    },
+    {
+      "municipio_codigo": "169",
+      "densidad_por_km2": 198.825831702544,
+      "municipio_codigo_ine": "281697",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Venturada",
+      "nuts4_codigo": "06",
+      "superficie_km2": 10.22
+    },
+    {
+      "municipio_codigo": "170",
+      "densidad_por_km2": 100.69131349564174,
+      "municipio_codigo_ine": "281701",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Villaconejos",
+      "nuts4_codigo": "08",
+      "superficie_km2": 33.269999999999996
+    },
+    {
+      "municipio_codigo": "171",
+      "densidad_por_km2": 82.01112980458133,
+      "municipio_codigo_ine": "281718",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Villa del Prado",
+      "nuts4_codigo": "09",
+      "superficie_km2": 77.27000000000001
+    },
+    {
+      "municipio_codigo": "172",
+      "densidad_por_km2": 375.5184331797235,
+      "municipio_codigo_ine": "281723",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Villalbilla",
+      "nuts4_codigo": "08",
+      "superficie_km2": 34.72
+    },
+    {
+      "municipio_codigo": "173",
+      "densidad_por_km2": 23.46179851250845,
+      "municipio_codigo_ine": "281739",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Villamanrique de Tajo",
+      "nuts4_codigo": "08",
+      "superficie_km2": 29.58
+    },
+    {
+      "municipio_codigo": "174",
+      "densidad_por_km2": 39.39585639727977,
+      "municipio_codigo_ine": "281744",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Villamanta",
+      "nuts4_codigo": "09",
+      "superficie_km2": 63.23
+    },
+    {
+      "municipio_codigo": "175",
+      "densidad_por_km2": 57.775919732441466,
+      "municipio_codigo_ine": "281757",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Villamantilla",
+      "nuts4_codigo": "09",
+      "superficie_km2": 23.92
+    },
+    {
+      "municipio_codigo": "176",
+      "densidad_por_km2": 584.5799769850403,
+      "municipio_codigo_ine": "281760",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Villanueva de la Cañada",
+      "nuts4_codigo": "05",
+      "superficie_km2": 34.76
+    },
+    {
+      "municipio_codigo": "177",
+      "densidad_por_km2": 669.4848604011011,
+      "municipio_codigo_ine": "281776",
+      "nuts4_nombre": "Sierra Central",
+      "municipio_nombre": "Villanueva del Pardillo",
+      "nuts4_codigo": "11",
+      "superficie_km2": 25.43
+    },
+    {
+      "municipio_codigo": "178",
+      "densidad_por_km2": 48.329621380846326,
+      "municipio_codigo_ine": "281782",
+      "nuts4_nombre": "Sudoeste Comunidad",
+      "municipio_nombre": "Villanueva de Perales",
+      "nuts4_codigo": "09",
+      "superficie_km2": 31.43
+    },
+    {
+      "municipio_codigo": "179",
+      "densidad_por_km2": 71.88624910007199,
+      "municipio_codigo_ine": "281795",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Villar del Olmo",
+      "nuts4_codigo": "08",
+      "superficie_km2": 27.78
+    },
+    {
+      "municipio_codigo": "180",
+      "densidad_por_km2": 60.88235294117647,
+      "municipio_codigo_ine": "281809",
+      "nuts4_nombre": "Sudeste Comunidad",
+      "municipio_nombre": "Villarejo de Salvanés",
+      "nuts4_codigo": "08",
+      "superficie_km2": 119.0
+    },
+    {
+      "municipio_codigo": "181",
+      "densidad_por_km2": 403.28445747800583,
+      "municipio_codigo_ine": "281816",
+      "nuts4_nombre": "Oeste Metropolitano",
+      "municipio_nombre": "Villaviciosa de Odón",
+      "nuts4_codigo": "05",
+      "superficie_km2": 68.2
+    },
+    {
+      "municipio_codigo": "182",
+      "densidad_por_km2": 11.459227467811159,
+      "municipio_codigo_ine": "281821",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Villavieja del Lozoya",
+      "nuts4_codigo": "06",
+      "superficie_km2": 23.3
+    },
+    {
+      "municipio_codigo": "183",
+      "densidad_por_km2": 79.08820614469772,
+      "municipio_codigo_ine": "281837",
+      "nuts4_nombre": "Sierra Sur",
+      "municipio_nombre": "Zarzalejo",
+      "nuts4_codigo": "10",
+      "superficie_km2": 20.18
+    },
+    {
+      "municipio_codigo": "901",
+      "densidad_por_km2": 24.052109663620456,
+      "municipio_codigo_ine": "289015",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Lozoyuela-Navas-Sieteiglesias",
+      "nuts4_codigo": "06",
+      "superficie_km2": 51.43
+    },
+    {
+      "municipio_codigo": "902",
+      "densidad_por_km2": 10.796036897847626,
+      "municipio_codigo_ine": "289020",
+      "nuts4_nombre": "Sierra Norte",
+      "municipio_nombre": "Puentes Viejas",
+      "nuts4_codigo": "06",
+      "superficie_km2": 58.54
+    },
+    {
+      "municipio_codigo": "903",
+      "densidad_por_km2": 1213.333333333333,
+      "municipio_codigo_ine": "289036",
+      "nuts4_nombre": "Norte Metropolitano",
+      "municipio_nombre": "Tres Cantos",
+      "nuts4_codigo": "02",
+      "superficie_km2": 37.95000000000001
+    }
+  ]
+}

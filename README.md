@@ -67,6 +67,34 @@ in certain cases.
 The only reference implementation currently is the javascript one, in
 [implementations/javascript/jcof.js](implementations/javascript/jcof.js).
 
+## Benchmarks
+
+This is the sizes of various documents in JSON compared to JCOF (from the test suite):
+
+```
+tiny.json:
+  JSON: 299 bytes
+  JCOF: 134 bytes (0.448x)
+circuitsim.json:
+  JSON: 8315 bytes
+  JCOF: 2093 bytes (0.252x)
+pokemon.json:
+  JSON: 219635 bytes
+  JCOF: 39650 bytes (0.181x)
+pokedex.json:
+  JSON: 56812 bytes
+  JCOF: 23132 bytes (0.407x)
+madrid.json:
+  JSON: 37960 bytes
+  JCOF: 11923 bytes (0.314x)
+meteorites.json:
+  JSON: 244920 bytes
+  JCOF: 87028 bytes (0.355x)
+comets.json:
+  JSON: 51949 bytes
+  JCOF: 37480 bytes (0.721x)
+````
+
 ## The format
 
 Here's the grammar which describes JCOF:
