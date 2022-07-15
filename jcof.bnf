@@ -1,0 +1,30 @@
+grammar ::= string-table ';' object-shape-table ';' value
+
+string-table ::= (string (','? string)*)?
+string ::= plain-string | json-string
+plain-string ::= [a-zA-Z0-9]+
+json-string ::= [https://datatracker.ietf.org/doc/html/rfc8259#section-7]
+
+object-shape-table ::= (object-shape (',' object-shape)*)?
+object-shape ::= object-key (':'? object-key)*
+object-key ::= base62 | json-string
+base62 ::= [0-9a-zA-Z]+
+
+value ::=
+  array-value |
+  object-value |
+  number-value |
+  string-value |
+  bool-value |
+  null-value
+
+array-value ::= '[' (value (','? value)*)? ']'
+object-value ::= shaped-object-value | keyed-object-value
+shaped-object-value ::= '(' base62 (','? value)* ')'
+keyed-object-value ::= '{' (key-value-pair (','? key-value-pair)*)? '}'
+key-value-pair ::= object-key ':'? value
+number-value ::= 'i' base62 | 'I' base62 | float-value
+float-value ::= '-'? [0-9]+ ('.' [0-9]+)? (('e' | 'E') ('-' | '+')? [0-9]+)?
+string-value ::= 's' base62 | json-string
+bool-value ::= 'b' | 'B'
+null-value ::= 'n'
