@@ -62,6 +62,9 @@ some cases even where gzip is used.
 I've also observed significant reductions in size between compressed JSON and compressed JCOF
 in certain cases.
 
+I'm publishing it because other people may find it useful too.
+If you don't find it useful, feel free to disregard it.
+
 ## Reference implementations
 
 The only reference implementation currently is the javascript one, in
