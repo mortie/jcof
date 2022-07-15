@@ -69,6 +69,7 @@ If you don't find it useful, feel free to disregard it.
 
 The only reference implementation currently is the javascript one, in
 [implementations/javascript/jcof.js](implementations/javascript/jcof.js).
+It's published on NPM here: https://www.npmjs.com/package/jcof
 
 ## Benchmarks
 
