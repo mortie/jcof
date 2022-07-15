@@ -15,10 +15,10 @@ The following JSON object:
 ```json
 {
 	"people": [
-		{"name": "Bob", "age": 32, "occupation": "Plumber", "full-time": true},
-		{"name": "Alice", "age": 28, "occupation": "Programmer", "full-time": true},
-		{"name": "Bernard", "age": 36, "occupation": null, "full-time": null},
-		{"name": "El", "age": 57, "occupation": "Programmer", "full-time": false}
+		{"first-name": "Bob", "age": 32, "occupation": "Plumber", "full-time": true},
+		{"first-name": "Alice", "age": 28, "occupation": "Programmer", "full-time": true},
+		{"first-name": "Bernard", "age": 36, "occupation": null, "full-time": null},
+		{"first-name": "El", "age": 57, "occupation": "Programmer", "full-time": false}
 	]
 }
 ```
