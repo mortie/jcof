@@ -31,7 +31,7 @@ Programmer;"age""first-name""full-time""occupation";
 ```
 
 Minimized, the JSON is 299 bytes, with 71.5 bytes on average per person object.
-The JCOF is 134 bytes, with only 7.5 bytes per person object; that's 0.45x the size in total,
+The JCOF is 134 bytes, with only 17.5 bytes per person object; that's 0.45x the size in total,
 and 0.23x the size per person object.
 The reason the JCOF is so much smaller is threefold:
 
