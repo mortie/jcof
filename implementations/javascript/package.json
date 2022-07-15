@@ -1,6 +1,6 @@
 {
   "name": "jcof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript implementation of JCOF",
   "main": "jcof.js",
   "type": "module",
