@@ -1,3 +1,3 @@
 .PHONY: check
 check:
-	node test.mjs
+	node test.js
