@@ -189,6 +189,47 @@ A value can be:
 	`B`: false
 * A null literal: `n`
 
+### Semantics
+
+JSON has been criticized for leaving a lot of stuff up to the implementation.
+JCOF has a stricter semantics for what a JCOF document means. Incidentally, these semantics can
+be applied to JSON as well, so "JSON with JCOF-style semantics" would be a useful subset of JSON
+with more well-defined semantics.
+
+Values can be any of the following types:
+
+* Null.
+* Boolean: true or false.
+* String: A UTF-8 encoded list of Unicode code points.
+* Number: A double precision IEEE 754 floating point value.
+	* The values Infinity, -Infinity and NaN are not representable. A serializer should either
+	  produce a null or signal an error if asked to serialize an unrepresentable number value.
+* Array: An ordered collection of 0 or more values.
+* Object: An unordered collection of 0 or more key-value pairs with strings as keys.
+  An object cannot have two or more key-value pairs with _the same_ key.
+
+Two values are considered _the same_ only if they are of the same type and comply with
+the following equality rules for their type:
+
+* Null: Two null values always considered _the same_.
+* Boolean: Two boolean values are considered _the same_ if both are true or both are false.
+* String: Two string values are considered _the same_ if they have the same UTF-8 code units
+  in the same order.
+* Number: Two numbers are considered _the same_ only if they represent the same IEEE 754
+  double precision floating point value. Two IEEE 754 double precision floating point values are
+  considered _the same_ if they have the same bits, or if both numbers represent 0, or if both
+  numbers represent -0.
+* Array: Two arrays A and B are considered _the same_ if they have the same number of values, and if
+  the value at index i of A is _the same_ as the value at index i of B for every index i in the arrays.
+* Object: Two objects A and B are considered _the same_ if every key in A is _the same_ as a key
+  in B and vice versa, and the value at key k of A is _the same_ as the value at key k of B for every
+  key k in the objects. The ordering of the keys is irrelevant.
+
+An encoder can use these rules to pick optimal ways to represent values. If two representations are
+_the same_ according to these rules, the encoder can freely pick between them.
+Notably, it is often useful to sort the keys in objects, so that multiple objects with the same keys
+in different order can use the same object shape.
+
 ### Railroad diagram
 
 generated with
