@@ -2,6 +2,14 @@
 
 A more efficient way to represent JSON-style objects.
 
+## Status
+
+This format isn't nailed down yet.
+Most changes will likely be additive, such that existing JCOF documents will remain valid,
+but nothing is guaranteed. Use at your own risk.
+In its current form, JCOF is suitable for closed systems where one party controls every producer
+and consumer and where every implementation can be updated at once.
+
 ## About
 
 JCOF tries to be a drop-in replacement for JSON, with most of the same semantics, but with a much
