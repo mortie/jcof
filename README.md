@@ -173,8 +173,8 @@ and the object shape table is a list of object shapes (non-optionally) separated
 
 Base62 encoding just refers to writing integer numbers in base 62 rather than base 10.
 This lets us use 0-9, a-z and A-Z as digits. The characters from `0` to `9` represent
-0-9, the characters `a` to `f` represent 10-26, and the characters `A` to `F` represent
-27-62.
+0-9, the characters `a` to `z` represent 10-35, and the characters `A` to `Z` represent
+36-61.
 
 ### Values
 
